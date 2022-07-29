@@ -1,0 +1,4867 @@
+[
+    [
+        "some critical vulns six that can lead to rce being patched in adobe flashplayer this morning story to come.",
+        "O O O O O O O O B-VUL O O O B-ORG B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday linux arm execve amp amp quot bin sh amp amp quot amp amp quot bin sh amp amp 0day exploit",
+        "O O B-PRO O O B-PRO I-PRO O O O B-PRO I-PRO O B-PRO I-PRO O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter na cve-2016-2779 runuser in util-linux allows local users to",
+        "O O B-ID O O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft internet explorer 11 mshtml cpastecommand::convertbitmaptopng buffer overflow packetstorm",
+        "B-ORG B-PRO I-PRO B-VER O O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "infosec podcast risky business 447 struts bug owns everyone rand 0day report and more",
+        "O O O O O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update ceph suse-su-2018:2478-1 nessus",
+        "B-PRO I-PRO I-PRO O O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter ubuntu s apport bug reporting tool leads to vulnerabilities",
+        "O B-PRO O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln microsoft windows lsass buffer overrun vulnerability",
+        "O O B-ORG B-PRO O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "suse sles12 security update qemu suse-su-2016:2936-1",
+        "B-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "suse sles12 security update kernel suse-su-2018:1534-1",
+        "B-PRO I-PRO O O B-PRO B-ID",
+        "1"
+    ],
+    [
+        "threat network google chrome 57 browser update patches high severity flaws",
+        "O O B-ORG B-PRO B-VER O O O O O O",
+        "1"
+    ],
+    [
+        "debian dsa-3726-1 imagemagick security update",
+        "B-PRO B-ID O O O",
+        "1"
+    ],
+    [
+        "adobe flash player 22.0.0.211 bypass a restriction or similar obtain information vulnerability",
+        "B-ORG B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln red hat enterprise linux usb device descriptor local denial of service vulnerability",
+        "O B-ORG I-ORG B-PRO I-PRO O O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "in-the-wild exploits ramp up against high-impact sites using apache struts eight days after developers infosec",
+        "O O O O O O O O B-PRO I-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter nvidia windows gpu display driver 375.x lt 376.67 378.x lt 378.52 multiple vulnerabilities",
+        "O B-ORG B-PRO O O O B-VER O B-VER I-VER O B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "tips to prevent office 365 data loss as a result of ransomware l spanning",
+        "O O O B-PRO B-VER O O O O O O O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2016-2843-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "apache tomcat gain privileges vulnerability",
+        "B-PRO I-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ms16-118 microsoft internet explorer privilege escalation ii 3192887",
+        "B-ID B-ORG B-PRO I-PRO B-VUL I-VUL O B-ID",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3151-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "isns server memory corruption vulnerability in microsoft windows server",
+        "O B-PRO B-VUL I-VUL I-VUL O B-ORG B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "opensuse security update qemu opensuse-2018-603 spectre nessus",
+        "B-PRO O O O B-ID B-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter local microsoft com for windows privilege escalation",
+        "O O B-ORG O O B-PRO B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter vuln retired sap identity management cve-2018-2416 xml external entity injection vulnerability reti",
+        "O O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "malware stealing credentials via office documents recently the threat actors in charge of the azorult infosec",
+        "O O O O B-PRO O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter in-the-wild exploits ramp up against high-impact sites using apache struts",
+        "O O O O O O O O O B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "vulnerability security remote mcafee virus scan enterprise for linux remote code execution",
+        "O O O B-PRO I-PRO I-PRO I-PRO O B-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "adobe flash player 22.0.0.211 windows execute code vulnerability",
+        "B-ORG B-PRO I-PRO B-VER B-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter google s project zero outs severe vulnerability in microsoft s edge browser",
+        "O B-ORG O O O O O O O B-ORG O B-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter google chrome lt 68.0.3440.75 multiple vulnerabilities",
+        "O B-ORG B-PRO B-VER I-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "0daytoday linux x86-64 bin sh c reboot shellcode 89 bytes shellcode 0day exploit",
+        "O B-PRO B-VER O O O B-VUL I-VUL O O B-VUL O O",
+        "1"
+    ],
+    [
+        "shadowbrokers offers for sale the stolen nsa windows hacking tools",
+        "O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "vuln linux kernel tcp_xmit_retransmit_queue function use after free denial of service vulnerability",
+        "O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "oracle database server 11.2.0.4 remote code execution vulnerability oracle database server 11.2.0.4 remote code",
+        "B-ORG B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL B-ORG B-PRO I-PRO B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "opensuse 2018:1794-1 important redis an update that fixes two vulnerabilities is",
+        "B-PRO B-ID O O O O O O O O O",
+        "1"
+    ],
+    [
+        "linux kernel tcp implementation vulnerable to denial of service cve-2018-5390 linux",
+        "B-PRO I-PRO O O O O B-VUL I-VUL I-VUL B-ID B-PRO",
+        "1"
+    ],
+    [
+        "vuln apache tomcat security manager cve-2016-5018 security bypass vulnerability",
+        "O B-PRO I-PRO O O B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cybersecurity smb zero-day affects several windows versions including windows 10 infosec",
+        "O O O O O B-PRO O O B-PRO B-VER O",
+        "1"
+    ],
+    [
+        "apache struts 2.3 2.5 remote code execution apache versions 2.3 up to 2.3.34 and 2.5 up to 2.5.16 remote code",
+        "B-PRO I-PRO B-VER I-VER B-VUL I-VUL I-VUL B-PRO O B-VER I-VER I-VER I-VER O B-VER I-VER I-VER I-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "redhat rhsa-2018-1933:01 important chromium-browser security update an update for",
+        "B-ORG B-ID O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "cve-2017-2583 the load_segment_descriptor implementation in arch x86 kvm emulate.c in the linux kernel before 4.9.",
+        "B-ID O O O O O B-VER O O O O B-PRO I-PRO B-VER I-VER",
+        "1"
+    ],
+    [
+        "nvidia windows gpu display driver kernel mode layer nvlddmkm.sys dxgkddisubmitcommandvirtual buffer overflow",
+        "B-ORG B-PRO O O O B-PRO O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "na cve-2016-7877 adobe flash player versions 23.0.0.207 and adobe flash player versions 23.0.0.207 and earl",
+        "O B-ID B-ORG B-PRO I-PRO O B-VER O B-ORG B-PRO I-PRO O B-VER O O",
+        "1"
+    ],
+    [
+        "centos cesa-2018-1852 moderate centos 7 kernel upstream details at",
+        "B-PRO B-ID O B-PRO B-VER B-PRO O O O",
+        "1"
+    ],
+    [
+        "ms16-002 critical security update for microsoft office 3214291 version 1.0 severity rating infosec",
+        "B-ID O O O O B-ORG B-PRO B-ID O B-VER O O O",
+        "1"
+    ],
+    [
+        "na cve-2016-6213 fs namespace.c in the linux kernel before 4.9 fs namespace.c in the linux kernel before 4.",
+        "O B-ID O O O O B-PRO I-PRO B-VER I-VER O O O O B-PRO I-PRO B-VER I-VER",
+        "1"
+    ],
+    [
+        "apache tomcat 6.0.x lt 6.0.48 7.0.x lt 7.0.73 8.0.x lt 8.0.39 8.5.x lt 8.5.8 multiple vulnerabilities",
+        "B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER I-VER O B-VER I-VER I-VER I-VER I-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "splunk lt 7.0.1 information disclosure cxsecurity",
+        "B-PRO B-VER I-VER B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "sap trex 7.10 execute code vulnerability sap trex 7.10 execute code vulnerability5 nov 2016 summary",
+        "B-ORG B-PRO B-VER B-VUL I-VUL I-VUL B-ORG B-PRO B-VER B-VUL I-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "office 365 business users targeted in punycode-based phishing a new phishing attack targeting office 365 infosec",
+        "B-PRO B-VER O O O O O O O O B-VUL I-VUL O B-PRO B-VER O",
+        "1"
+    ],
+    [
+        "cybersecurity windows 10 creators update brings new security capabilities infosec",
+        "O B-PRO B-VER O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2015-0050 microsoft internet explorer 8 mshtml srunpointer::spanqualifier runtype oob read fulldisclosure",
+        "B-ID B-ORG B-PRO I-PRO B-VER O O O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "centos 7 patch cesa-2018:1200",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday chromebackdoor graniet v3.0 web panel multi vulnerability webapps exploits vulnerabili",
+        "O O B-PRO O O O O O O O O O",
+        "1"
+    ],
+    [
+        "centos 7 xmlrpc cesa-2018:1780 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "blackhat infosecnews mongodb attack shows off cyber extortionists new tricks",
+        "O O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 6 zsh rhsa-2018:1932 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "google chrome 52.0.2743.116 openjpeg denial of service overflow vulnerability google chrome 52.0.2743.116 openjp",
+        "B-ORG B-PRO B-VER O B-VUL I-VUL I-VUL I-VUL I-VUL B-ORG B-PRO B-VER O",
+        "1"
+    ],
+    [
+        "debian dla-1414-1 mercurial security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "na rhsa-2017:0001 ipa security update problem description an update for ipa is now available for red hat ente",
+        "O B-ID O O O O O O O O O O O O O B-ORG I-ORG O",
+        "1"
+    ],
+    [
+        "microsoft experts launch anti-recon tool for windows 10 server 2016",
+        "B-ORG O O O O O B-PRO B-VER B-PRO B-VER",
+        "1"
+    ],
+    [
+        "threatmeter apache tomcat up to 9.0.0.m13 error handler information disclosure",
+        "O B-PRO I-PRO B-VER I-VER I-VER B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu 17.10 18.04 lts mozjs52 vulnerabilities usn-3688-1",
+        "B-PRO B-VER I-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "cve-2016-7240 ms16-129 microsoft edge browser memory corruption remote code execution vii 3199057 mcafee",
+        "B-ID I-ID B-ORG B-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL O O B-ORG",
+        "1"
+    ],
+    [
+        "snort subscriber rule set update for 06 21 2018",
+        "B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2571-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "cve-2016-7867 adobe flash player versions 23.0.0.207 and earlier 11.2.202.644 and earlier have an exploitable buf",
+        "B-ID B-ORG B-PRO I-PRO O B-VER I-VER I-VER I-VER I-VER I-VER O O O O",
+        "1"
+    ],
+    [
+        "google chrome 52.0.2743.116 pdfium denial of service vulnerability google chrome 52.0.2743.116 pdfium denial of",
+        "B-ORG B-PRO B-VER O B-VUL I-VUL I-VUL I-VUL B-ORG B-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "ubuntu 18.04 lts openjdk-lts vulnerabilities usn-3747-1 nessus",
+        "B-PRO B-VER I-VER B-PRO O B-ID O",
+        "1"
+    ],
+    [
+        "opensuse security update imagemagick opensuse-2018-690 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability",
+        "O B-ORG B-PRO I-PRO O B-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 6 sssd and ding-libs rhsa-2018:1877 nessus plugin id 110602 with high severity synopsis the remote red",
+        "B-PRO B-VER O O O B-ID O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "microsoft office powerpoint 2010 mso oart heap out-of-bounds access exploit",
+        "B-ORG B-PRO I-PRO B-VER O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-1929-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "rt sanspentest sans pentest blogexploiting xxe vulnerabilities in iis .netby christojdavblog",
+        "O O O O O B-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "microsoft update servers left all azure rhel instances hackable theregister security hack",
+        "B-ORG O O O O B-PRO I-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter bugtraq security dsa 4266-1 linux security update security dsa 4266-1 linux security update",
+        "O O O B-ID I-ID B-PRO O O O B-ID I-ID B-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel 4.6.6 obtain information vulnerability",
+        "O B-PRO I-PRO B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter dos microsoft internet explorer 9 ieframe cmarkup remove pointer pos use-after-free ms13-055",
+        "O O B-ORG B-PRO I-PRO B-VER O O O O O B-VUL B-ID",
+        "1"
+    ],
+    [
+        "suse sles11 security update java-1_7_0-ibm suse-su-2018:1458-1 nessus",
+        "B-PRO I-PRO O O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter apache couchdb lt 2.1.0 remote code execution topic apache couchdb lt 2.1.0 remote code execution risk",
+        "O B-PRO I-PRO B-VER I-VER B-VUL I-VUL I-VUL O B-PRO I-PRO B-VER I-VER B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "opensuse security update ucode-intel opensuse-2018-887 foreshadow spectre nessus",
+        "B-PRO O O O B-ID O B-VUL O",
+        "1"
+    ],
+    [
+        "cve-2016-1883 the issetugid system call in the linux compatibility layer in freebsd 9.3 10.1 and 10.2 allows loc",
+        "B-ID O O O O O O B-PRO O O O B-PRO B-VER I-VER O B-VER O O",
+        "1"
+    ],
+    [
+        "microsoft office file processing flaw lets remote users execute arbitrary code",
+        "B-ORG B-PRO B-VUL I-VUL I-VUL O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "oracle linux 7 xmlrpc elsa-2018-1780",
+        "B-ORG B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "rhel 6 memcached rhsa-2016:2820",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter na cve-2016-5193 google chrome prior to 54.0 for ios had",
+        "O O B-ID B-ORG B-PRO B-VER I-VER I-VER O B-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter webapps delux same day delivery script 1.0 sql injection",
+        "O O O O O O O B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "research security massive oracle critical patch update fixes 270 vulnerabilities",
+        "O O O B-ORG O O O O O O",
+        "1"
+    ],
+    [
+        "vuln sap internet graphics server cve-2018-2437 arbitrary command execution vulnerability bugtraq",
+        "O B-ORG O O B-PRO B-ID B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "google chrome up to 54 pdfium use-after-free buffer overflow",
+        "B-ORG B-PRO B-VER I-VER I-VER O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "windows domain name system dnsapi.dll lets remote users execute arbitrary code on the target system",
+        "B-PRO O O O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "microsoft cortana flaw allows web browsing on locked pcs threatpost",
+        "B-ORG B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "sap netweaver 2004s remote code execution vulnerability",
+        "B-ORG B-PRO O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "linux kernel up to 4.6.0 kernel profiling subsystem ring_buffer.c ring_buffer_resize privilege escalation",
+        "B-PRO I-PRO B-VER I-VER I-VER B-PRO O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2016-10153 local denial of service vulnerability kernel cve-2016-10153 local denial",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL B-PRO B-ID O O",
+        "1"
+    ],
+    [
+        "threatmeter remote microsoft windows dnslint.exe drive-by download",
+        "O O B-ORG B-PRO O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 7 kernel rhsa-2017:0004 nessus",
+        "B-PRO B-VER B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "what you need to know apache struts vulnerability 8 22 2018",
+        "O O O O O B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "vuln linux kernel ipv6 implementation local integer overflow vulnerability bugtraq",
+        "O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "suse sles11 security update kernel suse-su-2018:1821-1",
+        "B-PRO I-PRO O O B-PRO B-ID",
+        "1"
+    ],
+    [
+        "linux kernel up to 4.4.22 uaccess.h _get_user_asm_ex privilege escalation",
+        "B-PRO I-PRO B-VER I-VER I-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 7 plexus-archiver rhsa-2018:1836 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "medium rhsa-2017 0177 java-1.6.0-sun security update problem description an update for java-1.6.0-sun is now",
+        "O B-ID I-ID B-PRO O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "oraclevm 3.4 unbreakable etc ovmsa-2018-0230",
+        "B-PRO B-VER O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter mcafee epolicy orchestrator csv file handling arbitrary command execution sb10227",
+        "O B-ORG B-PRO I-PRO O O O B-VUL I-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "security news shadowbrokers offers for sale the stolen nsa windows hacking tools",
+        "O O O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "5-year-old linux kernel local privilege escalation flaw discovered a 5-year-old serious privilege infosec",
+        "O B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL O O O O O O",
+        "1"
+    ],
+    [
+        "second try at windows lsass patch addresses vulnerability",
+        "O O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "vuln apache tomcat cve-2016-6816 security bypass vulnerability bugtraq",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "opensuse security update java-1_8_0-openjdk opensuse-2016-1380 nessus",
+        "B-PRO O O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter adobe acrobat reader up to 11.0.18 15.006.30244 15.020.20042 form data format privilege escalation",
+        "O B-ORG B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 7 plexus-archiver rhsa-2018:1836 nessus plugin id 110507 with high severity synopsis the remote red hat",
+        "B-PRO B-VER O B-ID O O O O O O O O O O B-ORG I-ORG",
+        "1"
+    ],
+    [
+        "microsoft windows uniscribe cve-2017-0123 information disclosure vulnerability discoveredmar",
+        "B-ORG B-PRO O B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3692-1 packetstorm",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "adobe flash player 11.2.202.632 linux denial of service execute code overflow memory corruption vulnerability ad",
+        "B-ORG B-PRO I-PRO B-VER B-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "old linux kernel security bug bites",
+        "O B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "threatmeter sap netweaver as java 7.5 bc-bmt-bpm-dsk bpemuwlconn privilege escalation",
+        "O B-ORG B-PRO O B-PRO B-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "opensuse security update xen opensuse-2018-599 meltdown spectre nessus",
+        "B-PRO O O O B-ID B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-8248 a remote code execution vulnerability exists in microsoft excel software when the softwa",
+        "O B-ID O B-VUL I-VUL I-VUL I-VUL O O B-ORG B-PRO O O O O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday oracle peoplesoft hcm 9.2 cross site scripting vulnerability remote exploits vulnerabi",
+        "O O B-ORG B-PRO O B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "ubuntu 16.04 lts linux linux-gke linux-raspi2 linux-snapdragon vulnerability usn-3220-1 nessus",
+        "B-PRO B-VER O B-PRO O O B-PRO O B-ID O",
+        "1"
+    ],
+    [
+        "high usn-3189-1 linux kernel vulnerabilities a security issue affects these releases of ubuntu and its derivat",
+        "O B-ID B-PRO I-PRO O O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "microsoft windows kernel win32k ntuserconsolecontrol denial of service exploit",
+        "B-ORG B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-10901 a flaw was found in linux kernel s kvm virtualization subsystem the vmx code does not",
+        "O B-ID O O O O O B-PRO I-PRO O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter sap infrastructure could be used to deploy ransomware on enterprise networks",
+        "O B-ORG O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "na cve-2017-5548 drivers net ieee802154 atusb.c in the linux",
+        "O B-ID O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-10879 a flaw was found in the linux kernel s ext4 filesystem a local user can cause a use-af",
+        "O B-ID O O O O O O B-PRO I-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln oracle java se cve-2016-5556 remote security vulnerability jre windows production relea",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "cve-2016-7219 the crypto driver in microsoft windows vista sp2 windows server 2008 sp2 and r2 sp1 windows 7 sp1",
+        "B-ID O O O O B-ORG B-PRO I-PRO B-VER B-PRO I-PRO B-VER I-VER O B-VER I-VER B-PRO B-VER I-VER",
+        "1"
+    ],
+    [
+        "vulnerability security microsoft windows 10 x86 x64 wlan autoconfig named pipe proof of concept",
+        "O O B-ORG B-PRO B-VER I-VER I-VER O O O O O O O",
+        "1"
+    ],
+    [
+        "bugtraq security bulletin hpsbux03665 rev.3 hp-ux tomcat-based servlet engine remote denial of bugtraq",
+        "O O O O O O B-PRO I-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "microsoft edge internet explorer handlecolumnbreakoncolumnspanningelement type confusion cxsecurity",
+        "B-ORG B-PRO I-PRO I-PRO O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "rhel 5 kvm rhsa-2017:0454 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "rhel 7 podman rhsa-2018:2037 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update libvorbis suse-su-2018:1565-1",
+        "B-PRO I-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter rhel 6 samba4 rhsa-2018:1883",
+        "O B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "apache struts 2.5.x lt 2.5.8 urlvalidator form field handling remote dos nessus",
+        "B-PRO I-PRO B-VER O B-VER O O O O O O O",
+        "1"
+    ],
+    [
+        "don t get zapped by the struts-shock vulnerability affecting apache struts 2",
+        "O O O O O O O O O B-PRO I-PRO B-VER",
+        "1"
+    ],
+    [
+        "samsung knox patch mongodb audit crypto in php podcast security daily",
+        "O O O B-PRO O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "windows settings shortcuts can be abused for code execution on windows 10",
+        "B-PRO O O O O O O B-VUL I-VUL O B-PRO B-VER",
+        "1"
+    ],
+    [
+        "threatmeter oracle e-business multiple vulnerabilities january 2017 cpu",
+        "O B-ORG B-PRO B-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "cybersecurity vuln adobe flash player and air actionscript avm1 actionpush memory corruption infosec",
+        "O O B-ORG B-PRO I-PRO O B-PRO O O O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "debian security advisory 4229-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "cybersecurity vuln linux kernel ipv6 implementation local integer overflow vulnerability infosec",
+        "O O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update kernel suse-su-2016:3039-1 nessus",
+        "B-PRO I-PRO I-PRO O O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "rhel 7 kernel-alt rhsa-2018:1967 spectre nessus",
+        "B-PRO B-VER O B-ID B-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter aix openssl advisory openssl_advisory27.asc",
+        "O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter glsa-201806-02 adobe flash player multiple vulnerabilities nessus plugin id 110523 with medium sev",
+        "O B-ID B-ORG B-PRO I-PRO O O O O O O O O O",
+        "1"
+    ],
+    [
+        "debian dla-1445-1 busybox security update nessus plugin id 111358 with high severity synopsis the remote debian",
+        "B-PRO B-ID O O O O O O O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "cyber infosec bonza digital cart script 1 sql injection",
+        "O O O O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vulnerability security bugtraq re oss-security docker 1.12.6 security advisory",
+        "O O O O O B-PRO B-VER B-ID I-ID",
+        "1"
+    ],
+    [
+        "oraclevm 3.3 unbreakable etc ovmsa-2017-0005",
+        "B-PRO B-VER O O B-ID",
+        "1"
+    ],
+    [
+        "suse sles12 security update mariadb suse-su-2016:2932-1",
+        "B-PRO I-PRO O O B-ORG B-ID",
+        "1"
+    ],
+    [
+        "medium cve-2016-5223 integer overflow in pdfium in google chrome",
+        "O B-ID B-VUL I-VUL O O O B-ORG B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter dos microsoft windows kernel win32k ntuserconsolecontrol denial of service poc",
+        "O O B-ORG B-PRO I-PRO O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2018-8225 windows dnsapi remote code execution vulnerability a remote code executio",
+        "B-ID B-PRO O B-VUL I-VUL I-VUL I-VUL O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-1932-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter rhel 7 ansible rhsa-2018:2022",
+        "O B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "vuln microsoft windows local privilege escalation vulnerability",
+        "O B-ORG B-PRO B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday fusermount user_allow_other restriction bypass and selinux label control exploit",
+        "O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "oracle vm virtualbox up to 5.0.31 5.1.13 shared folder unknown vulnerability",
+        "B-ORG B-PRO I-PRO B-VER I-VER I-VER I-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update recommended update for mariadb suse-su-2016:2933-1",
+        "O B-PRO I-PRO I-PRO O O O O O B-ORG B-ID",
+        "1"
+    ],
+    [
+        "local microsoft excel starter 2010 xml external entity injection exploitdb",
+        "O B-ORG B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "adobe flash player 23.0.0.162 linux denial of service execute code overflow memory corruption vulnerability adobe",
+        "B-ORG B-PRO I-PRO B-VER B-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL B-ORG",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af_packet race condition privilege escalation",
+        "O B-PRO I-PRO B-VER B-PRO B-VER I-VER I-VER O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter cve-2017-5880 splunk web in splunk enterprise versions 6.5.x before 6.5.2 6.4.x before 6.4.5 6.3.x",
+        "O B-ID B-PRO O O B-PRO I-PRO O B-VER I-VER I-VER I-VER I-VER I-VER I-VER",
+        "1"
+    ],
+    [
+        "windows 10 upgrade vulnerability makes any pc super easy to hack",
+        "B-PRO B-VER O O O O O O O O O",
+        "1"
+    ],
+    [
+        "debian dsa-3795-1 bind9 security update",
+        "B-PRO B-ID O O O",
+        "1"
+    ],
+    [
+        "oracle jdeveloper information disclosure vulnerability july 2018 cpu",
+        "B-ORG O B-VUL I-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "mcafee releases security bulletin for virus scan enterprise original release date december 12 2016 infosec",
+        "B-ORG O O O O B-PRO I-PRO I-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "apache tomcat patches important security vulnerabilities",
+        "B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "ubuntu 16.04 lts linux vulnerabilities usn-3169-1",
+        "B-PRO B-VER I-VER B-PRO O B-ID",
+        "1"
+    ],
+    [
+        "cve-2016-7262 microsoft excel 2007 sp3 excel 2010 sp2 excel 2013 sp1 excel 2013 rt sp1 excel 2016 office comp",
+        "B-ID B-ORG B-PRO B-VER I-VER B-PRO B-VER I-VER B-PRO B-VER I-VER B-PRO B-VER O B-VER B-PRO B-VER B-PRO O",
+        "1"
+    ],
+    [
+        "expert found a 0day rce in microsoft windows jscript component securityaffairs hacking",
+        "O O O O B-VUL O B-ORG B-PRO O O O O",
+        "1"
+    ],
+    [
+        "debian security advisory 4262-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "cve-2017-3372 vulnerability in the oracle interaction blending component of oracle e-business suite subcomponent",
+        "B-ID O O O B-ORG O O O O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter apache struts2 gui exploit",
+        "O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "vuln oracle java se cve-2014-6456 remote security vulnerability",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cve-2017-3424 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen",
+        "B-ID O O O B-ORG B-PRO I-PRO O O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "attackers pick microsoft office for zero-day exploits infosecmag",
+        "O O B-ORG B-PRO O O O O",
+        "1"
+    ],
+    [
+        "vuln oracle peoplesoft enterprise peopletools multiple remote security vulnerabilities bugtraq",
+        "O B-ORG B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2018-8399 an elevation of privilege vulnerability exists in windows when the win32k component fails to properly",
+        "B-ID O B-VUL I-VUL I-VUL I-VUL O O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "learn more about the windows defender security center now available for windowsinsiders",
+        "O O O O B-PRO I-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel ip_tunnel.c local integer overflow vulnerability",
+        "O O B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "opensuse security update gstreamer opensuse-2017-302 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "opensuse security update mysql-community-server opensuse-2018-844 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "oracle interaction center intelligence 12.1.1 remote code execution vulnerability oracle interaction center inte",
+        "B-ORG O O O B-VER B-VUL I-VUL I-VUL I-VUL B-ORG O O O",
+        "1"
+    ],
+    [
+        "threatmeter angularjs filemanager v1.5.1 file upload vulnerability",
+        "O B-PRO I-PRO B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "fedora 27 nodejs-jsv nodejs-uri-js 2018-13e08f4b4a nessus plugin id 110574 with high severity synopsis the",
+        "B-PRO B-VER O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln sap netweaver xml external entity information disclosure vulnerability bugtraq",
+        "O B-ORG B-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vuln adobe acrobat extension for chrome cve-2017-2929 cross site scripting vulnerability acrobat extension",
+        "O B-ORG B-PRO O O B-PRO B-ID B-VUL I-VUL I-VUL I-VUL B-PRO O",
+        "1"
+    ],
+    [
+        "cve-2017-2997 adobe flash player versions 24.0.0.221 and earlier have an exploitable buffer overflow underflow v",
+        "B-ID B-ORG B-PRO I-PRO O B-VER I-VER I-VER O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "suse sles11 security update java-1_7_0-ibm suse-su-2017:0716-1",
+        "B-PRO I-PRO O O B-PRO B-ID",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3692-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update dbus-1 suse-su-2017 0292-1",
+        "O B-PRO I-PRO I-PRO O O O B-ID I-ID",
+        "1"
+    ],
+    [
+        "cve-2016-7292 the installer in microsoft windows vista sp2 windows server 2008 sp2 and r2 sp1 windows 7 sp1 win",
+        "B-ID O O O B-ORG B-PRO I-PRO B-VER B-PRO I-PRO B-VER I-VER O B-VER I-VER B-PRO B-VER I-VER O",
+        "1"
+    ],
+    [
+        "oracle linux 6 xmlrpc3 elsa-2018-1779",
+        "B-ORG B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "news shift f10 bypassses windows 10 bitlocker and drops you into an access-all-areas cli",
+        "O O O O B-PRO B-VER O O O O O O O O",
+        "1"
+    ],
+    [
+        "office 365 admins how to mitigate new attack that bypasses 2fa on windows systems a new product infosec",
+        "B-PRO B-VER O O O O O O O O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "vuln citrix license server for windows and license server vpx cve-2017-5571 open redirect vulnerability bugtraq",
+        "O B-ORG O B-PRO O B-PRO O O B-PRO O B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2017-15430 unsafe navigation in chromecast in google chrome prior to 63.0.3239.84 allowed a remote attacker to",
+        "B-ID O O O B-PRO O B-ORG B-PRO B-VER I-VER I-VER O O O O O",
+        "1"
+    ],
+    [
+        "cve-2018-10881 a flaw was found in the linux kernel s ext4 filesystem a local user can cause an out-of-bound",
+        "B-ID O O O O O O B-PRO I-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "oracle to release fixes for 334 vulnerabilities",
+        "B-ORG O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3722-3 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "critical apache struts vulnerability exploited in live attacks",
+        "O B-PRO I-PRO O O O O O",
+        "1"
+    ],
+    [
+        "rhel 6 7 expat rhsa-2016:2824",
+        "B-PRO B-VER I-VER O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter mcafee application control 6.x lt 6.2.0.567 7.0.x lt 7.0.1.275 unauthorized ioctl use local privilege",
+        "O B-ORG O O B-VER I-VER I-VER I-VER I-VER I-VER O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter suse sles11 security update java-1 7 0-ibm suse-su-2016 3068-1",
+        "O B-PRO I-PRO O O B-PRO I-PRO I-PRO B-ID I-ID",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2016-9644 local privilege escalation vulnerability",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "kb4284874 windows 10 version 1703 june 2018 security update nessus plugin id 110490 with high severity synopsis",
+        "B-ID B-PRO B-VER O B-VER O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 6 gstreamer-plugins-good rhsa-2016 2975 nessus",
+        "B-PRO B-VER O B-ID I-ID B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter microsoft windows crypto driver and windows installer bugs let local users obtain potentially sensiti",
+        "O B-ORG B-PRO O O O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 6 7 java-1.8.0-oracle rhsa-2017 0175",
+        "B-PRO B-VER I-VER B-PRO B-ID I-ID",
+        "1"
+    ],
+    [
+        "rt aglongo red hat security advisory 2018-2187-01 infosec",
+        "O O B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "na cve-2017-5371 odata server in sap adaptive server enterprise odata server in sap adaptive server enterpr",
+        "O B-ID B-PRO I-PRO O B-ORG B-PRO I-PRO I-PRO I-PRO I-PRO O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "windows mail client embedded url processing flaw lets remote users obtain potentially sensitive ip address informat",
+        "B-PRO O O O O O O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vulnerability security vuln microsoft office cve-2016-7263 memory corruption vulnerability",
+        "O O O B-ORG B-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian security advisory 3736-1 packetstorm",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "linux 4.9 rc7 linus torvalds still on the regular sunday release schedule here s rc7",
+        "B-PRO B-VER O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter na cve-2016-5214 google chrome prior to 55.0.2883.75 for windows",
+        "O O B-ID B-ORG B-PRO B-VER I-VER I-VER O B-PRO",
+        "1"
+    ],
+    [
+        "windows 10 still needs emet exploit protection us cert tells microsoft doubts raised over microsoft s infosec",
+        "B-PRO B-VER O O O O O O O O B-ORG O O O B-ORG O O",
+        "1"
+    ],
+    [
+        "rhel 5 6 7 thunderbird rhsa-2016:2825",
+        "B-PRO B-VER I-VER I-VER O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel cve-2017-5551 local denial of service vulnerability",
+        "O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "flash player security flaws used in most exploit kits security research shows",
+        "B-PRO I-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "oracle linux 6 7 unbreakable enterprise kernel elsa-2018-4131",
+        "B-ORG B-PRO B-VER I-VER O B-PRO I-PRO B-ID",
+        "1"
+    ],
+    [
+        "blackhat infosecnews lastpass fixes serious security flaw in chrome firefox extensions",
+        "O O O O O O O O B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "rhel 6 firefox rhsa-2018:2112",
+        "B-PRO B-VER B-PRO B-ID",
+        "1"
+    ],
+    [
+        "splunk lt 7.0.1 information disclosure",
+        "B-PRO B-VER I-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter flash player security flaws used in most exploit kits security research shows",
+        "O B-PRO I-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "0daytoday adobe flash movieclip attach init object use-after-free exploit dos exploits 0day exploit",
+        "O B-ORG B-PRO O O O O B-VUL I-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update vim suse-su-2016:2942-1",
+        "B-PRO I-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "cybersecurity adobe quietly bundles data-collecting chrome extension with latest reader update infosec",
+        "O B-ORG O O O B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2096-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "rhel 7 memcached rhsa-2016:2819",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "zdi-16-617 dell sonicwall universal management suite imagepreviewservlet sql injection remote code execution vuln",
+        "B-ID B-ORG B-PRO I-PRO I-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel cve-2016-6130 local information disclosure vulnerability",
+        "O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "is your windows 10 migration strategy leaving you vulnerable",
+        "O O B-PRO B-VER O O O O O",
+        "1"
+    ],
+    [
+        "rt dangokyo my write-up for cve-2017-3000 a cve assigned to us on constant blinding prng in flash player more details can be",
+        "O O O O O B-ID O O O O O O O O O O B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "vuln microsoft internet explorer vbscript engine cve-2018-8174 arbitrary code execution vulnerability infosec",
+        "O B-ORG B-PRO I-PRO O O B-ID B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter vigilnce linux kernel privilege escalation via copy on write dirty cow",
+        "O O B-PRO I-PRO B-VUL I-VUL O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cybersecurity sap vulnerability exposes enterprises to ransomware other attacks infosec",
+        "O B-ORG O O O O O O O O",
+        "1"
+    ],
+    [
+        "cybersecurity vuln linux kernel cve-2017-6074 local denial of service vulnerability infosec",
+        "O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2016-2947-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "microsoft internet explorer 9 jscript9 javascriptstackwalker memory corruption",
+        "B-ORG B-PRO I-PRO B-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3683-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "windows 10 doubleagent zero-day hijacks microsoft tool to turn antivirus into malware",
+        "B-PRO B-VER O O O B-ORG B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "suse sles12 security update kernel suse-su-2018:1948-1 nessus",
+        "B-PRO I-PRO O O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "splunk enterprise server up to 6.4.x alerts id ssrf privilege escalation",
+        "B-PRO I-PRO I-PRO B-VER I-VER I-VER O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "na rhsa-2017:0340 red hat enterprise linux 5 one-month retirement notice problem description this is the one-",
+        "O B-ID B-ORG I-ORG B-PRO I-PRO B-VER O O O O O O O O O",
+        "1"
+    ],
+    [
+        "critical flaw in pricewaterhousecoopers sap security tool but pwc tries downplay pwc sap ha",
+        "O O O O B-ORG O B-PRO O O O O O B-ORG O",
+        "1"
+    ],
+    [
+        "cve-2018-2636 vulnerability how is oracle micros pos affected",
+        "B-ID O O O B-ORG O O O",
+        "1"
+    ],
+    [
+        "0daytoday windows uac protection bypass via slui file handler hijack exploit 0day exploit",
+        "O B-PRO B-VUL I-VUL I-VUL O O O O O O O O",
+        "1"
+    ],
+    [
+        "shift f10 bypassses windows 10 bitlocker and drops you into an access-all-areas cli don t panic.do infosec",
+        "O O O B-PRO B-VER O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "debian security advisory 4259-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3752-3 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "na cve-2016-8822 all versions of nvidia windows gpu display all versions of nvidia windows gpu display driv",
+        "O B-ID O O O B-ORG B-PRO O O O O O B-ORG B-PRO O O O",
+        "1"
+    ],
+    [
+        "cve-2018-3110 a vulnerability was discovered in the java vm component of oracle database server supported versions",
+        "B-ID O O O O O O B-PRO O O O B-ORG B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2425-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "rhel 6 samba rhsa-2018:1860",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "opensuse security update xen opensuse-2017-5",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "apache struts needs patch-ing without delay it s under attack now",
+        "B-PRO I-PRO O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter rhel 6 kernel rhsa-2018:2250 spectre",
+        "O B-PRO B-VER B-PRO B-ID B-VUL",
+        "1"
+    ],
+    [
+        "rt hakin9 phishing attack uses punycode to try to steal office 365 credentials tripwireinc infosec hacking pe",
+        "O O B-VUL I-VUL O O O O O O B-PRO B-VER O O O O O",
+        "1"
+    ],
+    [
+        "cve-2017-5577 the vc4_get_bcl function in drivers gpu drm vc4 vc4_gem.c in the videocore drm driver in the linux k",
+        "B-ID O O O O O O O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "vuln openlinux sunos windows nt hp-ux denial of service vulnerability openlinux sunos windows nt hp-ux denial of",
+        "O O O B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL O O B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2017-0495-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "windows zero-day bug exposed on twitter",
+        "B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "adobe flash player up to 24.0.0.194 use-after-free buffer overflow",
+        "B-ORG B-PRO I-PRO B-VER I-VER I-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2017-5548 local denial of service vulnerability bugtraq",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "microsoft hasn t issued a patch yet for a new medium-rated windows vulnerability",
+        "B-ORG O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "ntp up to 4.2.8p9 on windows data structure denial of service",
+        "B-PRO B-VER I-VER I-VER O B-PRO O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "security updates for microsoft office viewer products office compatibility products july 2018 nessus plugin",
+        "O O O B-ORG B-PRO O O B-PRO O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "google chrome 56 s crypto tweak borked thousands of computers using bluecoat security theregister",
+        "B-ORG B-PRO B-VER O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "cybersecurity vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability infosec",
+        "O O B-PRO I-PRO O O O B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "na usn-3150-1 linux kernel vulnerability a security issue affects these releases of ubuntu and its derivatives",
+        "O B-ID B-PRO I-PRO O O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "publicly disclosed windows vulnerabilities await patches",
+        "O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "apache struts 2.3 to 2.3.34 and 2.5 to 2.5.16 remote code execution poc cxsecurity",
+        "B-PRO I-PRO B-VER I-VER I-VER O B-VER I-VER I-VER B-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "dos linux kernel 2.6.32-642 3.16.0-4 inode integer overflow poc",
+        "O B-PRO I-PRO B-VER I-VER O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "ubuntu security usn-3152-1 linux kernel vulnerability",
+        "B-PRO O B-ID B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "linux kernel developers discuss dropping fbdev staging drivers",
+        "B-PRO I-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 exim4 vulnerability usn-3164-1 nessus",
+        "B-PRO B-VER O B-VER O B-VER O B-VER O O B-ID O",
+        "1"
+    ],
+    [
+        "security hacking adobe flash responsible for six of the top 10 bugs used by exploit kits in 2016",
+        "O O B-ORG B-PRO O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu security usn-3144-1 linux kernel vulnerability",
+        "B-PRO O B-ID B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "opensuse security update mozilla thunderbird opensuse-2018-701 nessus",
+        "B-PRO O O B-ORG O B-ID O",
+        "1"
+    ],
+    [
+        "medium rhsa-2017:0462 java-1.8.0-ibm security update",
+        "O B-ID B-PRO O O",
+        "1"
+    ],
+    [
+        "dos microsoft windows kernel win32k ntuserconsolecontrol denial of service poc",
+        "O B-ORG B-PRO I-PRO O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "high rhsa-2017 0059 red hat mobile application platform 4.2.1 security update sdks and rpms",
+        "O B-ID I-ID B-ORG I-ORG B-PRO I-PRO I-PRO B-VER O O O O O",
+        "1"
+    ],
+    [
+        "vuln oracle bi publisher multiple security vulnerabilities",
+        "O B-ORG O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian dla-1439-1 resiprocate security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "linux kernel up to 4.4.1 crypto algif_skcipher.c lrw_crypt denial of service",
+        "B-PRO I-PRO B-VER I-VER I-VER O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "na cve-2016-5200 v8 in google chrome prior to 54.0.2840.98 for",
+        "O B-ID O O B-ORG B-PRO B-VER I-VER I-VER O",
+        "1"
+    ],
+    [
+        "rt e_kaspersky how to limit windows 10 sending your telemetry to microsoft or why do i still use windows 7 gt",
+        "O O O O O B-PRO B-VER O O O O B-ORG O O O O O O B-PRO B-VER O",
+        "1"
+    ],
+    [
+        "a zero-day flash exploit is targeting windows users in the middle east",
+        "O O B-PRO O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "cybersecurity how to crash any windows 10 pc laptop with a smb zero-day infosec",
+        "O O O O O B-PRO B-VER O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln microsoft windows lsass buffer overrun vulnerability",
+        "O B-ORG B-PRO O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "mcafee machine learning a key 2017 tool for socially engineered hacks infosecmag",
+        "B-ORG O O O O O O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vuln openstack oslo.middleware cve-2017-2592 information disclosure vulnerability bugtraq",
+        "O B-PRO O B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "git for windows 2.13.x lt 2.13.7 2.14.x lt 2.14.4 2.15.x lt 2.15.2 2.16.x lt 2.16.4 2.17.x lt 2.17.1 remote code",
+        "O O B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "citrix linux virtual delivery agent 1.3 gain privileges vulnerability",
+        "B-PRO I-PRO O O O B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "bugtraq security bulletin hpsbgn03677 rev.1 hpe network automation using rpcservlet and java bugtraq",
+        "O O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "rhel 6 7 eap7-jboss-ec2-eap rhsa-2017:1412 nessus",
+        "B-PRO B-VER I-VER O B-ID O",
+        "1"
+    ],
+    [
+        "oracle warns of cve-2018-3110 critical vulnerability in oracle database product patch it",
+        "B-ORG O O B-ID O O O B-ORG B-PRO O O O",
+        "1"
+    ],
+    [
+        "vuln linux kernel kvm emulate.c local information disclosure vulnerability bugtraq",
+        "O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "redhat resteasy denial of service vulnerability redhat resteasy denial of service vulnerability4 nov 2016",
+        "B-ORG O B-VUL I-VUL I-VUL I-VUL B-ORG O B-VUL I-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "rt tiraniddo cool to see my article on exploiting windows object manager lookup in poc gtfo volume 2",
+        "O O O O O O O O O B-PRO O B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "microsoft begins blocking updates for older windows versions on newer hardware windows 7 is supported infosec",
+        "B-ORG O O O O O B-PRO O O O O B-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln microsoft windows directx graphics kernel cve-2018-8406 local privilege escalation vulnerability",
+        "O O B-ORG B-PRO O O B-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vulnerability security vuln citrix provisioning services remote code execution and information disclosure vul",
+        "O O O B-PRO I-PRO I-PRO B-VUL I-VUL I-VUL O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday microsoft internet explorer 9 ieframe cselection interact button behavior::_update bu",
+        "O O B-ORG B-PRO I-PRO B-VER O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2016-8655 a new 5-year-old flaw found in the linux kernel",
+        "O B-ID O O O O O O O B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "vuln microsoft windows kernel win32k.sys cve-2016-7255 local privilege escalation vulnerability",
+        "O B-ORG B-PRO I-PRO O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "red hat security advisory 2016-2928-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "ubuntu 16.10 linux vulnerabilities usn-3147-1",
+        "B-PRO B-VER B-PRO O B-ID",
+        "1"
+    ],
+    [
+        "why firewalls are not recommended for securing scada systems scada systems need to be secure yet infosec",
+        "O O O O O O O B-PRO O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2016-9312 ntpd in ntp before 4.2.8p9 when running on windows allows remote attackers to cause a denial of se",
+        "B-ID O O O O O O O O B-PRO O O O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2016-8655 a new 5-year-old flaw found in the linux kernel a security expert discovered a serious infosec",
+        "B-ID O O O O O O O B-PRO I-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "rt 0xdea microsoft windows task scheduler contains a local privilege escalation vulnerability in the alpc interfaceadvisor",
+        "O O B-ORG B-PRO O O O O B-VUL I-VUL I-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "debian security advisory 3743-2 packetstorm",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "oracle bug responsible for san franciso hack",
+        "B-ORG O O O O O O",
+        "1"
+    ],
+    [
+        "vulnerability security joomla jcart for opencart 2.0 sql injection",
+        "O O B-PRO O O O B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 imagemagick vulnerabilities usn-3142-1",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter google chrome hack",
+        "O B-ORG B-PRO O",
+        "1"
+    ],
+    [
+        "ubuntu 16.04 lts linux linux-aws linux-kvm linux-raspi2 linux-snapdragon vulnerabilities usn-3676-1",
+        "B-PRO B-VER I-VER B-PRO I-PRO O O O O B-ID",
+        "1"
+    ],
+    [
+        "kb4343899 windows 7 and windows server 2008 r2 august 2018 security update foreshadow nessus",
+        "B-ID B-PRO B-VER O B-PRO I-PRO B-VER I-VER O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update xen suse-su-2016:3083-1",
+        "O B-PRO I-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "attacking microsoft office amp openoffice with metasploit macro exploits",
+        "O B-ORG B-PRO I-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln apache tomcat cve-2016-8735 remote code execution vulnerability",
+        "O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "0patch releases micropatch for windows task scheduler zero-day helpnetsecurity",
+        "O O O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "dos windows 10 desktop bridge virtual registry cve-2018-0880 incomplete fix privilege escalation",
+        "O B-PRO B-VER O O O O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "google chrome privilege escalation packetstorm",
+        "B-ORG B-PRO B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "opensuse security update samba opensuse-2017-12",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "linux kernel project rolled out security updates to fix two dos vulnerabilities securityaffairs securityaffairs",
+        "B-PRO I-PRO O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "aix openssl advisory openssl_advisory26.asc",
+        "B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "suse sles11 security update libvirt suse-su-2018:1475-1 spectre",
+        "B-PRO I-PRO O O O B-ID B-VUL",
+        "1"
+    ],
+    [
+        "linux.horsepill latestthreats",
+        "O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3674-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "adobe flash avc processing out of bounds read exploit",
+        "B-ORG B-PRO O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vulnerability security vuln ibm mq appliance cve-2015-7420 information disclosure vulnerability",
+        "O O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter rhba-2016:2961-1 red hat openstack platform 10 bug fix and enhancement advisory",
+        "O B-ID B-ORG I-ORG B-PRO I-PRO B-VER O O O O O",
+        "1"
+    ],
+    [
+        "opensuse security update networkmanager-vpnc opensuse-2018-859 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "opensuse security update gnuchess opensuse-2016-1352",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "cve-2018-8246 an information disclosure vulnerability exists when microsoft excel improperly discloses the contents",
+        "B-ID O B-VUL I-VUL I-VUL O O B-ORG B-PRO O O O O",
+        "1"
+    ],
+    [
+        "gvarisco hacker held open mongodb databases for mongodb hacking",
+        "O O O O B-PRO I-PRO O B-PRO O",
+        "1"
+    ],
+    [
+        "na usn-3141-1 thunderbird vulnerabilities a security issue affects these releases of ubuntu and its derivative",
+        "O B-ID O O O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln apache kafka cve-2017-12610 user impersonation vulnerability",
+        "O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "suse sles11 security update xen suse-su-2016 3174-1",
+        "B-PRO I-PRO O O B-PRO B-ID I-ID",
+        "1"
+    ],
+    [
+        "it always being about bitcoins shadow brokers retire infosecmag",
+        "O O O O O O O O O",
+        "1"
+    ],
+    [
+        "adobe flash player multiple flaws let remote users obtain potentially sensitive information and execute arbitrary c",
+        "B-ORG B-PRO I-PRO O O O O O B-VUL I-VUL I-VUL I-VUL O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2016-8646 the hash_accept function in crypto algif_hash.c in the linux kernel before 4.3.6 allows",
+        "O B-ID O O O O O O O O B-PRO I-PRO B-VER I-VER O",
+        "1"
+    ],
+    [
+        "debian dla-725-1 tzdata new upstream version nessus",
+        "B-PRO B-ID O O O O O",
+        "1"
+    ],
+    [
+        "mongodb servers now a ransomware target",
+        "B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "threatmeter google chrome htmlkeygenelement::shadowselect type confusion",
+        "O B-ORG B-PRO O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian security advisory 3788-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter vuln oracle java se cve-2014-6519 remote security vulnerability",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "red hat security advisory 2016-2842-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "debian security advisory 4236-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "unprotected mongodb installations child s play for hackers",
+        "O B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "apache releases security updates for tomcat native nccic cyber cybersecurity infosec",
+        "B-PRO O O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-1833-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "cve-2018-1288 in apache kafka 0.9.0.0 to 0.9.0.1 0.10.0.0 to 0.10.2.1 0.11.0.0 to 0.11.0.2 and 1.0.0",
+        "B-ID O B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER O B-VER",
+        "1"
+    ],
+    [
+        "high usn-3211-1 php vulnerabilities a security issue affects these releases of ubuntu and its derivatives u",
+        "O B-ID B-PRO O O O O O O O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vulnerability in microsoft smbv3 protocol crashes windows pcs",
+        "O O O B-ORG O O O B-PRO O",
+        "1"
+    ],
+    [
+        "vuln adobe flash player apsb18-24 arbiitrary code execution and information disclosure vulnerabilities adobe",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL O B-VUL I-VUL I-VUL B-ORG",
+        "1"
+    ],
+    [
+        "flash player multiple vulnerabilities",
+        "B-PRO I-PRO B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update vim suse-su-2016:2942-1",
+        "O B-PRO I-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "vuln multiple mcafee products cve-2016-8006 local authentication bypass vulnerability",
+        "O O B-ORG O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "windows kernel object memory handling flaw lets local users cause denial of service conditions on the target system",
+        "B-PRO I-PRO O B-VUL I-VUL I-VUL O O O O B-VUL I-VUL I-VUL O O O O O",
+        "1"
+    ],
+    [
+        "vuln linux kernel path_openat function use after free memory corruption vulnerability",
+        "O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "adobe patches multiple flaws including a flash zero-day exploited in the wild securityaffairs",
+        "B-ORG O O O O O B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter microsoft internet explorer 9 10 11 information disclosure cve-2017-0008",
+        "O B-ORG B-PRO I-PRO B-VER I-VER I-VER B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "debian security advisory 4226-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "apache tomcat patches important security vulnerabilities the apache software foundation asf has infosec",
+        "B-PRO I-PRO O O O O O B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "debian security advisory 4281-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "oracle linux 6 libvirt elsa-2018-1929 nessus",
+        "B-ORG B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "rt icebrgdotio our security research team has identified a zero-day vulnerability in adobe flash that enables an attacker to exec",
+        "O O O O O O O O O O O O B-ORG B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "local apache couchdb 2.0.0 local privilege escalation",
+        "O B-PRO I-PRO B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday oracle openjdk runtime environment build 1.8.0_112-b15 denial of service exploit 0day",
+        "O O B-ORG B-PRO I-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vuln oracle fusion middleware cve-2016-5579 remote security vulnerability",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "oracle critical patch update release tue jul 17th oracle released their quarterly critical patch infosec",
+        "B-ORG O O O O O O O B-ORG O O O O O O",
+        "1"
+    ],
+    [
+        "vuln drools cve-2016-7041 directory traversal vulnerability bugtraq",
+        "O O B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "0daytoday linux x86 multi dual mode execve amp quot bin sh amp quot null 0 shell 0day exploit",
+        "O B-PRO B-VER O O O O B-PRO O O O B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "mcafee epolicy orchestrator csv file handling arbitrary command execution sb10227 nessus",
+        "B-ORG B-PRO I-PRO O O O B-VUL I-VUL I-VUL B-ID O",
+        "1"
+    ],
+    [
+        "so long and thanks for all the fixes erpscan left out of credits on oracle bug-bash list app security infosec",
+        "O O O O O O O O O O O O O O B-ORG O O O O O",
+        "1"
+    ],
+    [
+        "powershell stuff windows 10",
+        "B-PRO O B-PRO B-VER",
+        "1"
+    ],
+    [
+        "threatmeter rhsa-2017 0057-1 critical flash-plugin security update",
+        "O B-ID I-ID O O O O",
+        "1"
+    ],
+    [
+        "redhat rhsa-2018-1929:01 low libvirt security update an update for libvirt is now",
+        "B-ORG B-ID O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3689-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "microsoft update servers left all azure rhel instances hackable the register infosec vuln",
+        "B-ORG O O O O B-PRO I-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update spice suse-su-2017:0392-1",
+        "O B-PRO I-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "linuxsec linuxfoundation linuxit_europe hacking mcafee virusscan enterprise for linux upgrade it",
+        "O O O O B-PRO I-PRO I-PRO O B-PRO O O",
+        "1"
+    ],
+    [
+        "linux kernel 3.18.7 denial of service overflow vulnerability home ask the team mailing lists adv",
+        "B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2018-14581 redgate .net reflector before 10.0.7.774 and smartassembly before 6.12.5 allow attackers to execute",
+        "B-ID O B-PRO O B-VER I-VER O O B-VER I-VER O O O O",
+        "1"
+    ],
+    [
+        "vulnerability security microsoft internet explorer 11 mshtml cgeneratedcontent::hasgeneratedsvgmarker type con",
+        "O O B-ORG B-PRO I-PRO B-VER O O O O",
+        "1"
+    ],
+    [
+        "threatmeter suse sles11 security update imagemagick suse-su-2016 3256-1",
+        "O B-PRO I-PRO O O O B-ID I-ID",
+        "1"
+    ],
+    [
+        "threatmeter centos 7 resteasy-base cesa-2016 2604",
+        "O B-PRO B-VER O B-ID I-ID",
+        "1"
+    ],
+    [
+        "vuln mcafee application control and endpoint security cve-2016-8010 local security bypass vulnerability bugtraq",
+        "O B-ORG O O O O O B-ID B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "0patch releases micropatch for windows task scheduler zero-day",
+        "O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "suse sles11 security update samba suse-su-2016 3298-1",
+        "B-PRO I-PRO O O O B-ID I-ID",
+        "1"
+    ],
+    [
+        "us-cert warns of new linux kernel vulnerability linux dos attack vulnerability",
+        "O O O O B-PRO I-PRO O B-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln linux kernel arch x86 kvm vmx.c denial of service vulnerability bugtraq",
+        "O B-PRO I-PRO O B-VER O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "satan ransomware re-emerge amp attack using eternalblue exploit to compromise windows pc infosec",
+        "O O O B-PRO O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts openslp-dfsg vulnerabilities usn-3708-1",
+        "B-PRO B-VER I-VER I-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel tcp_xmit_retransmit_queue function use after free denial of service vulnerabil",
+        "O O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2017-6345 local denial of service vulnerability bugtraq",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "rt ulffrisk kaslrfinder writeup windows 10 kaslr recovery with tsx",
+        "O O O O B-PRO B-VER O O O O",
+        "1"
+    ],
+    [
+        "oracle sets all-time record with july critical patch update july s critical patch update addresses 334 infosec",
+        "B-ORG O O O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2016-7259 windows 10 windows 7 windows 8.1 windows rt 8.1 windows server 2008 windows serve",
+        "O B-ID B-PRO B-VER B-PRO B-VER B-PRO B-VER B-PRO O B-VER B-PRO I-PRO B-VER B-PRO O",
+        "1"
+    ],
+    [
+        "na cve-2016-9084 drivers vfio pci vfio_pci_intrs.c in the linux drivers vfio pci vfio_pci_intrs.c in the li",
+        "O B-ID O O O O O O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter holding shift f10 during windows 10 updates opens root cli bypasses bitlocker",
+        "O O O O O B-PRO B-VER O O B-VUL I-VUL O B-PRO",
+        "1"
+    ],
+    [
+        "vuln red hat openshift enterprise cve-2016-8651 information disclosure vulnerability bugtraq",
+        "O B-ORG I-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2016-6757 linux kernel",
+        "B-ID B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "linux kernel tcp vulnerability 2",
+        "B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "cve-2016-8822 all versions of nvidia windows gpu display driver contain a vulnerability in the kernel mode layer",
+        "B-ID O O O B-ORG B-PRO O O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "cve-2018-8251 windows_10 windows_7 windows_8.1 windows_rt_8.1 windows_server_2008 windows_server_2012",
+        "B-ID B-PRO I-PRO I-PRO I-PRO I-PRO I-PRO",
+        "1"
+    ],
+    [
+        "rt zerosteiner making raw x86 and x86-64 windows syscalls from python",
+        "O O O O B-VER O B-VER B-PRO O O O",
+        "1"
+    ],
+    [
+        "segmentsmack linux kernel bug newly discovered tcp flaw lets remote attackers stall devices with tiny dos attac",
+        "O B-PRO I-PRO O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3675-3 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "vuln linux kernel net sctp socket.c local denial of service vulnerability",
+        "O B-PRO I-PRO O O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3150-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "debian dla-1394-1 imagemagick security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "adobe flash player up to 24.0.0.221 actionscript 2 camera object use-after-free buffer overflow",
+        "B-ORG B-PRO I-PRO B-VER I-VER I-VER O O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "apache struts 2 under attack now",
+        "B-PRO I-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln citrix provisioning services remote code execution and information disclosure vulnerabilities",
+        "O O B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter adobe patches 42 flaws in reader acrobat flash",
+        "O B-ORG O O O O B-PRO I-PRO I-PRO",
+        "1"
+    ],
+    [
+        "news need xmas ideas try cve-2015-7645 a flash gift that keeps on giving",
+        "O O O O O B-ID O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "exploitdb dos microsoft windows kernel win32k ntuserconsolecontrol denial of service poc",
+        "O O B-ORG B-PRO I-PRO O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter rhel 7 kernel-rt rhsa-2017:0295",
+        "O B-PRO B-VER B-PRO B-ID",
+        "1"
+    ],
+    [
+        "symantec news new release symantec advanced threat protection app is now on splunk",
+        "O O O O O O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter steam profile integration 2.0.11 sql injection",
+        "O O O O B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday centos 7 kernel denial of service exploit cve-2017-5972 dos exploits 0day exploit",
+        "O O B-PRO B-VER B-PRO B-VUL I-VUL I-VUL I-VUL B-ID B-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "microsoft windows up to server 2016 privilege escalation cve-2017-0102",
+        "B-ORG B-PRO O O B-PRO B-VER B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "threatmeter ubuntu 16.04 lts linux vulnerabilities usn-3146-1",
+        "O B-PRO B-VER I-VER B-PRO O B-ID",
+        "1"
+    ],
+    [
+        "zerofont phishing attack bypasses office 365 security infosec",
+        "O B-VUL I-VUL O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter debian dsa-4254-1 slurm-llnl security update nessus plugin id 111316 with high severity synopsis",
+        "O B-PRO B-ID O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "critical rhsa-2016:2928 rh-mariadb101-mariadb security update problem description an update for rh-mariadb101",
+        "O B-ID O O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln microsoft windows kernel cve-2018-8308 local privilege escalation vulnerability",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter openstack glance image service api v1 portscan information disclosure",
+        "O B-PRO O O O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian dsa-4224-1 gnupg security update",
+        "B-PRO B-ID I-ID O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3705-2 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts openjdk-7 vulnerabilities usn-3691-1 nessus",
+        "B-PRO B-VER I-VER B-PRO O B-ID O",
+        "1"
+    ],
+    [
+        "apache has patched a critical remote code-execution vulnerability in struts 2 and users should update immediately",
+        "B-PRO O O O O B-VUL I-VUL I-VUL O B-PRO B-VER O O O O O",
+        "1"
+    ],
+    [
+        "finding bad with splunk there is such a deluge of information that it can be hard for information infosec",
+        "O O O B-PRO O O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "speaking of microsoft 0day here s a new office code execution technique all versions which ms aren t planning to",
+        "O O B-ORG O O O O O B-PRO B-VUL I-VUL O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3732-1 packetstorm",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "phishers use zerofont technique to bypass office 365 protections infosec",
+        "O O O O O O B-PRO B-VER O O",
+        "1"
+    ],
+    [
+        "opensuse security update nodejs4 opensuse-2016-1403",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter na cve-2016-5737 the gerrit configuration in the openstack",
+        "O O B-ID O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2016-6130 local information disclosure vulnerability linux enterprise wo",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "na cve-2016-7867 adobe flash player versions 23.0.0.207 and adobe flash player versions 23.0.0.207 and earl",
+        "O B-ID B-ORG B-PRO I-PRO O B-VER O B-ORG B-PRO I-PRO O B-VER O O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update bash suse-su-2016:2872-1 shellshock nessus",
+        "B-PRO I-PRO I-PRO O O O B-ID O O",
+        "1"
+    ],
+    [
+        "rhel 6 7 expat rhsa-2016 2824",
+        "B-PRO B-VER I-VER O B-ID I-ID",
+        "1"
+    ],
+    [
+        "threatmeter vuln oracle java se cve-2016-5554 remote security vulnerability",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "oracle webcenter portal multiple vulnerabilities july 2018 cpu nessus",
+        "B-ORG O O B-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "vuln sap hana cockpit information disclosure vulnerability",
+        "O B-ORG B-PRO O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft windows uniscribe information disclosure cve-2017-0115",
+        "B-ORG B-PRO O B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "cve-2016-9596 libxml2 as used in red hat jboss core services and when in recovery mode allows context-dependent a",
+        "B-ID O O O O B-ORG I-ORG B-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday microsoft windows scf file feature bypass vulnerability remote exploits vulnerability",
+        "O O B-ORG B-PRO O O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts 17.10 18.04 lts tomcat7 tomcat8 vulnerabilities usn-3665-1 nessus",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER B-PRO I-PRO O B-ID O",
+        "1"
+    ],
+    [
+        "sap sld registration denial of service overflow memory corruption vulnerability",
+        "B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "linux kernel 3.0.1 denial of service gain privileges memory corruption vulnerability",
+        "B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts 17.10 18.04 lts amd64-microcode update usn-3690-1 spectre",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER O O B-ID B-VUL",
+        "1"
+    ],
+    [
+        "redhat cloudforms management engine 4.1 execute code vulnerability",
+        "B-ORG B-PRO O O B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "security updates for microsoft excel products june 2018",
+        "O O O B-ORG B-PRO O O O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-7559 an issue was discovered in opc ua .net standard stack and sample code before github comm",
+        "O B-ID O O O O O O O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "chrome malware campaign drops the spora ransomware",
+        "B-PRO B-VUL I-VUL O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday microsoft windows 10 microsoftwindows windows10 child process restriction mitigatio",
+        "O O B-ORG B-PRO B-VER B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "cyber infosec linux kernel dirty cow ptrace_pokedata privilege escalation",
+        "O O B-PRO I-PRO B-VUL I-VUL O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "adobe flash flaws dominate exploit kits in 2016",
+        "B-ORG B-PRO O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter shellcode linux x86 dual network stack ipv4 and ipv6 bind tcp shellcode",
+        "O B-VUL B-PRO B-VER O O O O O O O O B-VUL",
+        "1"
+    ],
+    [
+        "rhel 7 red hat ceph storage 1.3.3 rhsa-2016:1972 nessus",
+        "B-PRO B-VER B-ORG I-ORG B-PRO O B-VER B-ID O",
+        "1"
+    ],
+    [
+        "rhel 7 virtualization manager rhsa-2018:2071 nessus",
+        "B-PRO B-VER O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter vuln microsoft internet explorer cve-2018-8373 remote memory corruption vulnerability microsoft inte",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL B-ORG O",
+        "1"
+    ],
+    [
+        "security updates for microsoft office viewer products office compatibility products august 2018 nessus",
+        "O O O B-ORG B-PRO O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter adobe flash player 11.2.202.635 linux execute code vulnerability",
+        "O B-ORG B-PRO I-PRO B-VER B-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "centos 6 libvirt cesa-2018:1929 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "java and python have unpatched firewall-crossing ftp snafu",
+        "B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "google chrome 52.0.2743.82 bypass a restriction or similar vulnerability google chrome 52.0.2743.82 bypass a res",
+        "B-ORG B-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL B-ORG B-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln retired sap identity management cve-2018-2416 xml external entity injection vulnerability",
+        "O O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter oracle mysql 5.5.52 execute code bypass a restriction or similar vulnerability",
+        "O B-ORG B-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts 16.10 apt vulnerability usn-3156-1",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "exploit for recent critical apache struts vulnerability published cve-2018-11776",
+        "O O O O B-PRO I-PRO O O B-ID",
+        "1"
+    ],
+    [
+        "critical glsa-201701-17 adobe flash player multiple vulnerabilities synopsis multiple vulnerabilities have be",
+        "O B-ID B-ORG B-PRO I-PRO B-VUL I-VUL O B-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "fedora 25 qpid-java 2017-7b181f9c98 nessus",
+        "B-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation",
+        "O B-ORG B-PRO I-PRO B-VER I-VER I-VER O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "security readings flash zero-day exploit act now naked security see more",
+        "O O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "rt securityholmes cve-2018-11776 struts exploit released with explanation",
+        "O O B-ID B-PRO O O O O",
+        "1"
+    ],
+    [
+        "threatmeter opensuse security update imagemagick opensuse-2016-1413",
+        "O B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "linux kernel up to 4.8.12 virt kvm kvm_main.c kvm_ioctl_create_device denial of service",
+        "B-PRO I-PRO B-VER I-VER I-VER O O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "linux vulnerability could lead to ddos attacks",
+        "B-PRO O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "adobe patches zero-day flash flaw krebsonsecurity",
+        "B-ORG O O B-PRO O O",
+        "1"
+    ],
+    [
+        "openstack cinder 7.0.2 denial of service vulnerability",
+        "B-PRO O B-VER B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel 4.8.2 denial of service overflow memory corruption vulnerability",
+        "O B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "erpscan-16-037 sap netweaver as java p4 information disclosure fulldisclosure",
+        "B-ID B-ORG B-PRO O B-PRO O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "linux kernel 4.4.28 remote code execution vulnerability linux kernel 4.4.28 remote code execution vulnerability",
+        "B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cybersecurity how windows 10 data collection trades privacy for security infosec",
+        "O O B-PRO B-VER O O O O O O O",
+        "1"
+    ],
+    [
+        "ms16-133 microsoft office memory denial of service 3199168",
+        "B-ID B-ORG B-PRO B-VUL I-VUL I-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-1944-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update procps suse-su-2018:1836-1 nessus",
+        "B-PRO I-PRO I-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "senator urges federal agencies to ditch adobe flash",
+        "O O O O O O B-ORG B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter google chrome 52.0.2743.116 linux remote code execution vulnerability",
+        "O B-ORG B-PRO B-VER B-PRO B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update qemu suse-su-2016:2988-1",
+        "O B-PRO I-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "red hat security advisory 2016-2819-01 packetstorm",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter glsa-201611-18 adobe flash player multiple vulnerabilities",
+        "O B-ID B-ORG B-PRO I-PRO B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft event viewer 1.0 xxe injection packetstorm",
+        "B-ORG O O B-VER B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2017-2959 adobe acrobat reader versions 15.020.20042 and earlier 15.006.30244 and earlier 11.0.18 and earlie",
+        "B-ID B-ORG B-PRO I-PRO O B-VER O B-VER I-VER O B-VER I-VER O O",
+        "1"
+    ],
+    [
+        "vuln oracle fusion middleware cve-2016-5578 remote security vulnerability oracle fusion middleware cve infosec",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL B-ORG B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "new apache struts zero-day vulnerability being exploited in the wild",
+        "O B-PRO I-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 7 docker rhsa-2018:2482 nessus",
+        "B-PRO B-VER B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "google chrome 52.0.2743.116 iframe remote code execution vulnerability",
+        "B-ORG B-PRO B-VER O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian dsa-3796-1 apache2 security update",
+        "B-PRO B-ID B-PRO O O",
+        "1"
+    ],
+    [
+        "elasticsearch esa-2017-19 nessus",
+        "B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "cybersecurity shift f10 during windows 10 updates can bypass bitlocker infosec",
+        "O O O O B-PRO B-VER O O O B-PRO O",
+        "1"
+    ],
+    [
+        "news govcert.hk security alert a16-12-03 multiple vulnerabilities in adobe flash player 14-dec-2016",
+        "O O O O B-ID B-VUL I-VUL O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "apache releases important security updates to patch vulnerabilities in tomcat server versions 7.0.x 8.0.x 8.5.x",
+        "B-PRO O O O O O O O O B-PRO I-PRO O B-VER O B-VER",
+        "1"
+    ],
+    [
+        "vuln nessus cve-2016-9260 html injection vulnerability bugtraq",
+        "O B-PRO B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "malware stealing credentials via office documents",
+        "O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter apache releases security updates for apache tomcat original release date july 23 2018 the apache so",
+        "O B-PRO O O O O B-PRO I-PRO O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "watch out sysadmins someone hijacked more than 2000 unsecured mongodb databases for ransom",
+        "O O O O O O O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "oracle weblogic server bugs let remote users access and modify data deny service and gain elevated privileges",
+        "B-ORG B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2016-2069 tlb flush local security bypass vulnerability bugtraq",
+        "O B-PRO I-PRO B-ID O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter vuln openlinux sunos windows nt hp-ux denial of service vulnerability openlinux sunos windows nt hp-",
+        "O O O O B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL O O B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "redhat rhsa-2018-1949:01 moderate ansible security and bug fix update an update for",
+        "B-ORG B-ID O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "security hacking locky variant osiris distributed via excel documents",
+        "O O B-VUL I-VUL I-VUL O O B-PRO O",
+        "1"
+    ],
+    [
+        "suse sles11 security update curl suse-su-2018:1478-1",
+        "B-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "microsoft internet explorer 11 webpage obtain information vulnerability microsoft internet explorer 11 webpage o",
+        "B-ORG B-PRO I-PRO B-VER O B-VUL I-VUL I-VUL B-ORG B-PRO I-PRO B-VER O O",
+        "1"
+    ],
+    [
+        "thousands of mongodb databases compromised and held to ransom mongodb databases are being hit by an infosec",
+        "O O B-PRO O O O O O O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 6 patch rhsa-2018:2094",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "ubuntu security usn-3239-3 gnu c library regression",
+        "B-PRO O B-ID O O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2017-0172-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-1656 the ibm java runtime environment s diagnostic tooling framework for java dtfj ibm sdk",
+        "O B-ID O B-ORG B-PRO O O O O O O O B-PRO O B-ORG O",
+        "1"
+    ],
+    [
+        "bugtraq google chrome accessibility blink node corruption details bugtraq",
+        "O B-ORG B-PRO O O B-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "windows macos hacked at pwn2own 2017",
+        "B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "na cve-2017-2955 adobe acrobat reader versions 15.020.20042 and adobe acrobat reader versions 15.020.20042",
+        "O B-ID B-ORG B-PRO I-PRO O B-VER O B-ORG B-PRO I-PRO O B-VER",
+        "1"
+    ],
+    [
+        "cybersecurity vuln microsoft internet explorer cve-2016-0162 information disclosure vulnerability infosec",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "debian dla-1411-1 tiff security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "threatmeter shellcode linux arm execve bin sh bin sh null shellcode 32 bytes",
+        "O B-VUL B-PRO O O O O O O O B-VUL O O",
+        "1"
+    ],
+    [
+        "vuln adobe flash player and air cve-2010-2216 unspecified memory corruption vulnerability su",
+        "O B-ORG B-PRO I-PRO O B-PRO B-ID B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "na cve-2016-7892 adobe flash player versions 23.0.0.207 and adobe flash player versions 23.0.0.207 and earl",
+        "O B-ID B-ORG B-PRO I-PRO O B-VER O B-ORG B-PRO I-PRO O B-VER O O",
+        "1"
+    ],
+    [
+        "office 365 business users targeted in punycode-based phishing",
+        "B-PRO B-VER O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian security advisory 4243-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "how to find and delete files older than x days in linux ostechnix it is very important to find and cleanup y",
+        "O O O O O O O O O O O B-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln debian tomcat package multiple local privilege escalation vulnerabilities bugtraq",
+        "O B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "rhel 6 kernel rhsa-2018:1826 spectre nessus plugin id 110506 with high severity synopsis the remote red hat",
+        "B-PRO B-VER O B-ID O O O O O O O O O O O B-ORG I-ORG",
+        "1"
+    ],
+    [
+        "vulnerability security webapps delux same day delivery script 1.0 sql injection",
+        "O O O O O O O O B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "linux kernel 4.2.5 denial of service vulnerability",
+        "B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "mongodb ransom attack just the beginning",
+        "B-PRO B-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "debian dsa-4275-1 keystone security update nessus",
+        "B-PRO B-ID I-ID O B-PRO O",
+        "1"
+    ],
+    [
+        "debian dsa-4225-1 openjdk-7 security update several vulnerabilities have been infosec",
+        "B-PRO B-ID I-ID O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "rt threatpost apache struts 2 flaw uncovered more critical than equifax bug:",
+        "O O B-PRO I-PRO B-VER O O O O O O O",
+        "1"
+    ],
+    [
+        "apache releases security updates for tomcat native original release date august 17 2018 the apache foundation",
+        "B-PRO O O O O B-PRO O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "google discloses windows vulnerability that microsoft fails to patch again",
+        "B-ORG O B-PRO O O B-ORG O O O O",
+        "1"
+    ],
+    [
+        "ms16-149 important security update for microsoft windows 3205655 version 1.0 inf",
+        "B-ID O O O O B-ORG B-PRO B-ID O B-VER O",
+        "1"
+    ],
+    [
+        "microsoft internet explorer html help control 4.74 bypass exploit",
+        "B-ORG B-PRO I-PRO O O O B-VER O O",
+        "1"
+    ],
+    [
+        "cve-2016-5187 google chrome prior to 54.0.2840.85 for android incorrectly handled rapid transition into and out of",
+        "B-ID B-ORG B-PRO B-VER I-VER I-VER O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "microsoft internet explorer html help control 4.74 bypass microsoft internet explorer html help control version 4",
+        "B-ORG B-PRO I-PRO O O O B-VER O B-ORG B-PRO I-PRO O O O O O",
+        "1"
+    ],
+    [
+        "vulnerability security papers injecting sqlite database based applications",
+        "O O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "fedora 25 calamares 2016-561a937494 nessus",
+        "B-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "malicious code and the windows integrity mechanism",
+        "B-VUL I-VUL O O B-PRO O O",
+        "1"
+    ],
+    [
+        "debian security advisory 4281-1 packetstorm",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "vuln apache tomcat security manager cve-2016-5018 security bypass vulnerability apache tomcat security infosec",
+        "O B-PRO I-PRO O B-PRO B-ID B-VUL I-VUL I-VUL B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "debian dsa-4233-1 bouncycastle security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "microsoft windows 8.1 bypass a restriction or similar vulnerability microsoft windows 8.1 bypass a restriction o",
+        "B-ORG B-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL B-ORG B-PRO B-VER B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "shellcode linux arm reverse ::1:4444 tcp shell bin sh ipv6 shellcode 116 bytes exploitdb",
+        "B-VUL B-PRO O O O O O O O O B-VUL O O O",
+        "1"
+    ],
+    [
+        "phplist 3.2.6 sql injection packetstorm",
+        "O B-VER B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2060-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter microsoft windows adodb.record object file overwrite microsoft windows suffers from an adodb.record o",
+        "O B-ORG B-PRO O O B-VUL I-VUL B-ORG B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln microsoft office cve-2016-7262 remote code execution vulnerability",
+        "O O B-ORG B-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln red hat jboss enterprise application platform cve-2016-8657 local privilege escalation vulnerability",
+        "O B-ORG I-ORG B-PRO I-PRO I-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "centos 6 java-1.7.0-openjdk cesa-2018:2283 nessus",
+        "B-PRO B-VER B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter ics scada security woes linger on",
+        "O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "microsoft internet explorer 10 bypass a restriction or similar vulnerability microsoft internet explorer 10 bypa",
+        "B-ORG B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL B-ORG B-PRO I-PRO B-VER O",
+        "1"
+    ],
+    [
+        "threatmeter symsa1404-sa148 linux kernel vulnerabilities feb-apr 2017",
+        "O B-ID B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "opensuse security update nextcloud opensuse-2018-712 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "rhel 6 kernel rhsa-2018:2392 foreshadow nessus",
+        "B-PRO B-VER B-PRO B-ID O O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts jasper vulnerabilities usn-3693-1 nessus",
+        "B-PRO B-VER I-VER I-VER I-VER O O B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter adobe flash responsible for six of the top 10 bugs used by exploit kits in 2016",
+        "O B-ORG B-PRO O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "suse sles11 security update kernel suse-su-2018:1482-1",
+        "B-PRO I-PRO O O B-PRO B-ID",
+        "1"
+    ],
+    [
+        "suse sles12 security update kernel suse-su-2018:1526-1",
+        "B-PRO I-PRO O O B-PRO B-ID",
+        "1"
+    ],
+    [
+        "google chrome out-of-bounds memory write error lets remote users execute arbitrary code",
+        "B-ORG B-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rt wdsecurity security update addresses critical adobe flash player vulnerabilities cve-2018-4945 cve-2018-5000 cve-2018-5001",
+        "O O O O O O B-ORG B-PRO I-PRO O B-ID I-ID I-ID",
+        "1"
+    ],
+    [
+        "rhel 7 ansible rhsa-2018:2022",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "rhel 7 ansible and gdeploy rhsa-2017:0260",
+        "B-PRO B-VER O O O B-ID",
+        "1"
+    ],
+    [
+        "phishing campaign on office 365 business users leverages phishing office365",
+        "B-VUL I-VUL O B-PRO B-VER O O O O B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter citrix xenserver qemu display geometry resize handling guest-to-host code execution ctx221578",
+        "O B-PRO O O O O O O O B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "rt gn3mes1s secure host baseline configuration guidance and files in support of the dod windows10 secure host baseline",
+        "O O O O O O O O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "rhel 6 java-1.7.1-ibm rhsa-2018:1812 nessus",
+        "B-PRO B-VER B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "san francisco transit ransomware attacker likely used year-old java exploit",
+        "O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "ubuntu 18.04 lts haproxy vulnerability usn-3663-1 nessus",
+        "B-PRO B-VER I-VER O O B-ID O",
+        "1"
+    ],
+    [
+        "microsoft windows task manager contains local privilege escalation",
+        "B-ORG B-PRO I-PRO I-PRO O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cybersecurity adobe fixes critical code execution bugs in flash infosec",
+        "O B-ORG O O B-VUL I-VUL I-VUL O B-PRO O",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2017-2636 local privilege escalation vulnerability",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "sap solman 7.31 information disclosure cxsecurity",
+        "B-ORG B-PRO B-VER B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vuln adobe flash player cve-2017-2997 buffer overflow vulnerability",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "opensuse security update git opensuse-2018-557 nessus plugin id 110335 with high severity synopsis the remote",
+        "B-PRO O O O B-ID O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ms16-002 critical security update for microsoft office 3214291 version 1.0",
+        "B-ID O O O O B-ORG B-PRO B-ID O B-VER",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel race condition in n_hldc driver lets local users gain elevated privileges",
+        "O B-PRO I-PRO B-VUL I-VUL O O O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel up to 4.8.13 net core sock.c sock_setsockopt sk_sndbuf sk_rcvbuf buffer overflow",
+        "O B-PRO I-PRO B-VER I-VER I-VER O O O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter fldbg a pykd script to debug flashplayer",
+        "O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "windows 10 still needs emet exploit protection us cert tells microsoft naked security infosec",
+        "B-PRO B-VER O O O O O O O O B-ORG O O O",
+        "1"
+    ],
+    [
+        "threatmeter users criticise adobe for bundling chrome plug-in with security patches",
+        "O O O B-ORG O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "rt btshell critical apache struts flaw cve-2018-11776 exploited in attacks in the wild",
+        "O O O B-PRO I-PRO O B-ID O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter oraclevm 3.4 unbreakable etc ovmsa-2018-0228 spectre",
+        "O B-PRO B-VER O O B-ID B-VUL",
+        "1"
+    ],
+    [
+        "linux kernel 2.6.32-642 3.16.0-4 inode integer overflow poc cxsecurity",
+        "B-PRO I-PRO B-VER I-VER O B-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "suse sles12 security update openssl suse-su-2018:1968-1 nessus",
+        "B-PRO I-PRO O O B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "debian security advisory 4219-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "debian security advisory 4235-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "dos microsoft windows gdi32.dll emr_setdibitstodevice heap-based out-of-bounds reads memory disclosure",
+        "O B-ORG B-PRO O O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2018-1655 ibm aix 5.3 6.1 7.1 and 7.2 contains a vulnerability in the rmsock command that may be used to exp",
+        "B-ID B-ORG B-PRO B-VER I-VER I-VER O B-VER O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2018-7559 an issue was discovered in opc ua .net standard stack and sample code before github commit 2018-04",
+        "B-ID O O O O O O O B-PRO O O O O O O O O O",
+        "1"
+    ],
+    [
+        "seig scada system 9 remote code execution",
+        "O B-PRO O B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2016-9755 out of bounds write security vulnerability linux kernel cve-2016-9755 infosec",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL B-PRO I-PRO B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter google chrome up to 55 pdf plugin same-origin policy privilege escalation",
+        "O B-ORG B-PRO B-VER I-VER I-VER O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2017-5551 local denial of service vulnerability",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter microsoft windows up to server 2016 uniscribe information disclosure",
+        "O B-ORG B-PRO O O B-PRO B-VER O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln apache kafka cve-2017-12610 user impersonation vulnerability",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "want to break into a locked windows 10 device ask cortana cve-2018-8140 windows10",
+        "O O O O O O B-PRO B-VER O O B-PRO B-ID B-PRO",
+        "1"
+    ],
+    [
+        "opensuse security update the linux kernel opensuse-2018-656 spectre nessus",
+        "B-PRO O O O B-PRO I-PRO B-ID B-VUL O",
+        "1"
+    ],
+    [
+        "news microsoft update servers left all azure rhel instances hackable",
+        "O B-ORG O O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter microsoft office word malicious macro execution",
+        "O B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter vuln red hat openshift enterprise cve-2016-9592 denial of service vulnerability",
+        "O O B-ORG I-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vigilnce jboss enterprise application platform buffer overflow via reverse proxy",
+        "O B-PRO I-PRO I-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "sap sapcryptolib 5.555.38 remote code execution vulnerability",
+        "B-ORG O B-VER B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cve-2018-10901 a flaw was found in linux kernel s kvm virtualization subsystem the vmx code does not restore the",
+        "B-ID O O O O O B-PRO I-PRO O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "debian dsa-4270-1 gdm3 security update nessus",
+        "B-PRO B-ID I-ID O B-PRO O",
+        "1"
+    ],
+    [
+        "debian dsa-4234-1 lava-server security update two vulnerabilities were discovered",
+        "B-PRO B-ID O O O O O O O",
+        "1"
+    ],
+    [
+        "remote code execution bug found in ubuntu quantal a remote code execution bug in ubuntu desktop was infosec",
+        "B-VUL I-VUL I-VUL I-VUL O O B-PRO O O B-VUL I-VUL I-VUL I-VUL O B-PRO O O O",
+        "1"
+    ],
+    [
+        "threatmeter rhel 6 7 expat rhsa-2016:2824",
+        "O B-PRO B-VER I-VER O B-ID",
+        "1"
+    ],
+    [
+        "opensuse security update sudo opensuse-2016-1402",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "update google chrome immediately to patch a high severity vulnerability",
+        "O B-ORG B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln oracle outside in technology cve-2018-2806 remote security vulnerability oracle outside in infosec",
+        "O B-ORG B-PRO I-PRO I-PRO B-ID B-VUL I-VUL I-VUL B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "flash player remains main target of exploit kits report",
+        "B-PRO I-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "june patch tuesday flash microsoft amp spectre please see below commentary in response to this month s infosec",
+        "O O O B-PRO B-ORG B-PRO B-VUL O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "security hacking microsoft releases security update for flash player libraries",
+        "O O B-ORG O O O O B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3684-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "google patches a chrome browser bug cve-2018-6177 that could have allowed remote hackers to find out everything",
+        "B-ORG O O B-PRO O O B-ID O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "remote apache struts 2.3 lt 2.3.34 2.5 lt 2.5.16 remote code execution 1",
+        "O B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER I-VER B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "shadow brokers now selling windows av exploits in new zeronet marketplace the group calling itself infosec",
+        "O O O O B-PRO O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln oracle flexcube universal banking multiple security vulnerabilities",
+        "O O B-ORG B-PRO O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3728-2 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "apache software foundation releases important security patches for multiple apache tomcat versions the infosec",
+        "B-PRO I-PRO O O O O O O O B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "threatmeter dos microsoft internet explorer 9 mshtml cdisp node insert sibling node use-after-free ms13-0",
+        "O O B-ORG B-PRO I-PRO B-VER O O O O O O B-VUL B-ID",
+        "1"
+    ],
+    [
+        "linux kernel udp fragmentation offset ufo privilege escalation",
+        "B-PRO I-PRO O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter vuln redhat keycloak cve-2016-8609 session hijacking vulnerability",
+        "O O B-ORG B-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter vuln oracle sun zfs storage appliance kit ak multiple local security vulnerabilities oracle sun zf",
+        "O O B-ORG O O O O O O B-VUL I-VUL I-VUL I-VUL B-ORG O O",
+        "1"
+    ],
+    [
+        "sap rushes to patch cyber security flaws in hana",
+        "B-ORG O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "rt binitamshah windows x64 password protected bind shellcode 825 bytes",
+        "O O B-PRO B-VER B-VUL I-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "threatmeter microsoft issues critical patch security updates for windows office and more",
+        "O B-ORG O O O O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter kb4284878 windows 8.1 and windows server 2012 r2 june 2018 security update nessus plugin id 110484 w",
+        "O B-ID B-PRO B-VER O B-PRO I-PRO B-VER I-VER O O O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "exploitdb dos windows 10 desktop bridge virtual registry cve-2018-0880 incomplete fix privilege escalation",
+        "O O B-PRO B-VER O O O O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "redhat rhsa-2018-1949:01 moderate ansible security and bug fix update infosec",
+        "B-ORG B-ID O O O O O O O O",
+        "1"
+    ],
+    [
+        "centos 6 qemu-kvm cesa-2018:2162 spectre nessus",
+        "B-PRO B-VER O B-ID B-VUL O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts ant vulnerability usn-3721-1 nessus",
+        "B-PRO B-VER I-VER O O B-ID O",
+        "1"
+    ],
+    [
+        "rt thehackersnews adobe releases august 2018 security updates to patch a total of 11 vulnerabilities in its flashplayer creative c",
+        "O O B-ORG O O O O O O O O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "desh universal cms sql injection cxsecurity",
+        "B-ORG I-ORG B-PRO B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2017-2990 apsb17-04 adobe flash player memory corruption remote code execution ii mcafee",
+        "B-ID I-ID B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL O B-ORG",
+        "1"
+    ],
+    [
+        "threatmeter cisco webex chrome extension remote command execution",
+        "O B-ORG O B-PRO O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cve-2016-9555 the sctp sf ootb function in net sctp sm statefuns.c in the linux kernel before 4.8.8 lacks chunk-le",
+        "B-ID O O O O O O O O O O O O B-PRO I-PRO O B-VER O O",
+        "1"
+    ],
+    [
+        "threatmeter opensuse security update the linux kernel opensuse-2016-1410",
+        "O B-PRO O O O B-PRO I-PRO B-ID",
+        "1"
+    ],
+    [
+        "na cve-2016-8633 drivers firewire net.c in the linux kernel drivers firewire net.c in the linux kernel befo",
+        "O B-ID O O O O O B-PRO I-PRO O O O O O B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "samsung knox patch mongodb audit crypto in php podcast security",
+        "O O O B-PRO O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2179-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "unpatched windows vulnerability disclosed by project zero",
+        "O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "high rhsa-2017:0165 openstack-cinder security update problem description an update for openstack-cinder is no",
+        "O B-ID B-PRO O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "bugtraq security dsa 3767-1 mysql-5.5 security update",
+        "O B-ID I-ID I-ID B-PRO O O",
+        "1"
+    ],
+    [
+        "threatmeter suse sles11 security update mono-core suse-su-2016:2958-1",
+        "O B-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "oracle linux 6 7 unbreakable enterprise kernel elsa-2018-4131 nessus plugin id 110527 with high severity",
+        "B-ORG B-PRO B-VER I-VER O O O B-ID O O O O O O O",
+        "1"
+    ],
+    [
+        "oracle linux 6 7 thunderbird elsa-2016-2825 nessus",
+        "B-ORG B-PRO B-VER I-VER O B-ID O",
+        "1"
+    ],
+    [
+        "adobe flash player up to 24.0.0.221 primetime tvsdk buffer overflow",
+        "B-ORG B-PRO I-PRO B-VER I-VER I-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cve-2013-6627 chrome chrome http 1xx base stringtokenizert quickgetnext oobr fulldisclosure",
+        "B-ID B-PRO I-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2016-5192 blink in google chrome prior to 54.0.2840.59 for windows missed a cors check on redirect in texttrac",
+        "B-ID O O B-ORG B-PRO B-VER I-VER I-VER O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter medium cve-2016-5219 a heap use after free in v8 in google chrome",
+        "O O B-ID O B-VUL I-VUL I-VUL I-VUL O O O B-ORG B-PRO",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2162-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "debian dla-1398-1 php-horde-crypt security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "threatmeter suse sled12 sles12 security update imagemagick suse-su-2016 2952-1",
+        "O B-PRO I-PRO I-PRO O O O B-ID I-ID",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel pcpu extend area map function use after free denial of service vulnerability",
+        "O O B-PRO I-PRO O O O O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "citrix xenserver multiple vulnerabilities ctx235748",
+        "B-PRO O B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "vulnerability security dos microsoft windows gdi32.dll emr_setdibitstodevice heap-based out-of-bounds re",
+        "O O O B-ORG B-PRO O O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "oracle weblogic server deserialization remote code execution exploit",
+        "B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "security alert vulnerabilities in adobe flash player apsb17-02",
+        "O O O O B-ORG B-PRO I-PRO B-ID",
+        "1"
+    ],
+    [
+        "cybersecurity bugtraq google chrome accessibility blink::node corruption details infosec",
+        "O O B-ORG B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "na usn-3175-1 firefox vulnerabilities a security issue affects these releases of ubuntu and its derivatives",
+        "O B-ID B-PRO O O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "microsoft internet explorer 10 browser obtain information vulnerability microsoft internet explorer 10 browser o",
+        "B-ORG B-PRO I-PRO B-VER O B-VUL I-VUL I-VUL B-ORG B-PRO I-PRO B-VER O O",
+        "1"
+    ],
+    [
+        "vuln apache http server cve-2016-0736 remote security vulnerability",
+        "O B-PRO I-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vuln sap hana cockpit cross site scripting vulnerability statementcopyright 2010 securityfocus",
+        "O B-ORG B-PRO O B-VUL I-VUL I-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "opensuse security update perl opensuse-2018-751 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "windows 10 diagnostics hub standard collector service privilege escalation windows 10 diagnostics hub standard",
+        "B-PRO B-VER O O O O O B-VUL I-VUL B-PRO B-VER O O O",
+        "1"
+    ],
+    [
+        "vuln sap gui cve-2017-6950 remote code execution vulnerability",
+        "O B-ORG O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cve-2016-8405 linux kernel",
+        "B-ID B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts 17.10 18.04 lts tomcat7 tomcat8 vulnerabilities usn-3665-1",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER B-PRO I-PRO O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter adobe acrobat reader up to 11.0.18 15.006.30244 15.020.20042 tiff image buffer overflow",
+        "O B-ORG B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter cve-2016-9597 it was found that red hat jboss core services erratum rhsa-2016:2957 for cve-2016-3705 d",
+        "O B-ID O O O O B-ORG I-ORG B-PRO O O O B-ID O B-ID O",
+        "1"
+    ],
+    [
+        "oracle mysql 5.5.51 remote code exeution vulnerability mysql 5.5.51 remote code exeution vulnerability6",
+        "B-ORG B-PRO B-VER B-VUL I-VUL I-VUL I-VUL B-PRO B-VER B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "security canada us-cert reminds users that windows smb v1 needs to die",
+        "O O O O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "opensuse security update slf4j opensuse-2018-601",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "centos 7 java-1.7.0-openjdk cesa-2018:2286 nessus",
+        "B-PRO B-VER B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "cve-2018-8224 an elevation of privilege vulnerability exists when the windows kernel fails to properly handle objec",
+        "B-ID O B-VUL I-VUL I-VUL I-VUL O O O B-PRO I-PRO O O O O O",
+        "1"
+    ],
+    [
+        "cve-2017-3440 vulnerability in the oracle customer interaction history component of oracle e-business suite subco",
+        "B-ID O O O B-ORG O O O O O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter vigilnce microsoft windows journal buffer overflow via a jtp file",
+        "O O B-ORG B-PRO O B-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "threatmeter debian dla-1436-1 gosa security update nessus plugin id 111221 with high severity synopsis the remo",
+        "O B-PRO B-ID O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln oracle java se cve-2014-6493 remote security vulnerability",
+        "O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "centos cesa-2018-1852 moderate centos 7 kernel infosec",
+        "B-PRO B-ID O B-PRO B-VER B-PRO O",
+        "1"
+    ],
+    [
+        "apache struts jakarta remote code execution cve-2017-5638 detection with nessus",
+        "B-PRO I-PRO O B-VUL I-VUL I-VUL B-ID O O O",
+        "1"
+    ],
+    [
+        "threatmeter oracle mysql server up to 5.7.16 x plugin unknown vulnerability",
+        "O B-ORG B-PRO I-PRO B-VER I-VER I-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "na cve-2016-5187 google chrome prior to 54.0.2840.85 for android",
+        "O B-ID B-ORG B-PRO B-VER I-VER I-VER O B-PRO",
+        "1"
+    ],
+    [
+        "adobe releases urgent update for flash in response to continuous cyber attacks cybersecurity itsec",
+        "B-ORG O O O O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-14613 an issue was discovered in the linux kernel through 4.17.10 there is an invalid point",
+        "O B-ID O O O O O O B-PRO I-PRO B-VER I-VER O O O O O",
+        "1"
+    ],
+    [
+        "adobe releases fix for actively exploited flash player zero-day infosec",
+        "B-ORG O O O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update mozillafirefox mozilla-nss suse-su-2016:3014-1",
+        "B-PRO I-PRO I-PRO O O O O B-ID",
+        "1"
+    ],
+    [
+        "vuln sap enterprise financial services cve-2018-2436 remote authorization bypass vulnerability",
+        "O B-ORG B-PRO O O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 7 red hat jboss web server 3.1.0 rhsa-2017:0456 nessus",
+        "B-PRO B-VER B-ORG I-ORG B-PRO O B-PRO B-VER B-ID O",
+        "1"
+    ],
+    [
+        "oracle database server rdbms obtain information vulnerability",
+        "B-ORG B-PRO I-PRO O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "opensuse security update qemu opensuse-2017-116 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "ms17-005 security update for adobe flash player 4010250",
+        "B-ID O O O B-ORG B-PRO I-PRO B-ID",
+        "1"
+    ],
+    [
+        "google chrome lt 55.0.2883.75 multiple vulnerabilities macos nessus",
+        "B-ORG B-PRO B-VER I-VER B-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "rhel 6 7 red hat jboss web server 3.1.0 service pack 1 rhsa-2017:1801 nessus",
+        "B-PRO B-VER I-VER B-ORG I-ORG B-PRO O B-PRO B-VER O O O B-ID O",
+        "1"
+    ],
+    [
+        "analyzing the sap june 2018 security patch day securityaffairs",
+        "O O B-ORG O O O O O O",
+        "1"
+    ],
+    [
+        "fedora 25 2:docker 2017-dbc2b618eb nessus",
+        "B-PRO B-VER B-PRO O O",
+        "1"
+    ],
+    [
+        "cve-2017-3414 vulnerability in the oracle advanced outbound telephony component of oracle e-business suite subcom",
+        "B-ID O O O B-ORG O O O O O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "cve-2014-9914 android linux_kernel",
+        "B-ID B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "cybersecurity vuln oracle java se cve-2017-3289 remote security vulnerability infosec",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "another nasty linux kernel bug surfaces",
+        "O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "pwned with 4 lines of code security researchers warn that industrial scada systems are still hopelessly insec",
+        "O O O O O O O O O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln apache couchdb cve-2016-8742 local privilege escalation vulnerability",
+        "O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft patch tuesday or is that patch next tuesday flash player rce patched today tue feb infosec",
+        "B-ORG O O O O O O O O B-PRO I-PRO B-VUL O O O O O",
+        "1"
+    ],
+    [
+        "rhel 7 kernel rhsa-2018:1852",
+        "B-PRO B-VER B-PRO B-ID",
+        "1"
+    ],
+    [
+        "threatmeter cve-2016-8405 linux_kernel",
+        "O B-ID B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter suse sles11 security update imagemagick suse-su-2016:2964-1",
+        "O B-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "security hacking adobe patches flash zero-day exploited in targeted attacks",
+        "O O B-ORG O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "microsoft fixes faulty debian package that messed with users settings vulnerability",
+        "B-ORG O O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter oracle secure global desktop multiple vulnerabilities july 2018 cpu nessus plugin id 111333 with hi",
+        "O B-ORG O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "google promotes chrome 55 browser to stable channel 36 security issues patched",
+        "B-ORG O B-PRO B-VER O O O O O O O O",
+        "1"
+    ],
+    [
+        "cybersecurity vuln oracle java se cve-2016-5568 use-after-free remote code execution vulnerability infosec",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter debian dla-1442-1 mailman security update nessus plugin id 111314 with high severity synopsis the r",
+        "O B-PRO B-ID O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter desh universal cms sql injection",
+        "O B-ORG I-ORG B-PRO B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter microsoft windows 8.1 bypass a restriction or similar vulnerability",
+        "O B-ORG B-PRO B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft windows 10 server 2016 kernel memory address handler information disclosure",
+        "B-ORG B-PRO B-VER B-PRO B-VER B-PRO O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 7 jboss core services rhsa-2017:0194 nessus",
+        "B-PRO B-VER B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter windows 10 diagnostics hub standard collector service privilege escalation",
+        "O B-PRO B-VER O O O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rhel 6 samba4 rhsa-2017:0744",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter symsa1400-sa145 apache struts 2 rce vulnerability symantec network protection products using affect",
+        "O B-ID B-PRO I-PRO B-VER B-VUL I-VUL O O O O O O",
+        "1"
+    ],
+    [
+        "microsoft internet explorer 11 scripting engine buffer overflow",
+        "B-ORG B-PRO I-PRO B-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "suse sles11 security update microcode_ctl suse-su-2018:2076-1 spectre",
+        "B-PRO I-PRO O O O B-ID B-VUL",
+        "1"
+    ],
+    [
+        "threatmeter opensuse security update mozillathunderbird opensuse-2017-345",
+        "O B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "exploitdb webapps oracle weblogic 12.1.2.0 rmi registry unicastref object java deserialization remote code exe",
+        "O O B-ORG O B-VER O O O O B-PRO B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter ms16-149 important security update for microsoft windows 3205655 version 1.0",
+        "O B-ID O O O O B-ORG B-PRO B-ID O B-VER",
+        "1"
+    ],
+    [
+        "vuln linux kernel mm memory.c local code execution vulnerability",
+        "O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian security advisory 4279-1 packetstorm",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter security update for microsoft office july 2018 macos nessus plugin id 110978 with high severity s",
+        "O O O O B-ORG B-PRO O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ms16-148 critical security update for microsoft office 3204068 version 1.0 severity rating infosec",
+        "B-ID O O O O B-ORG B-PRO B-ID O B-VER O O O",
+        "1"
+    ],
+    [
+        "microsoft office vulnerabilities used to distribute felixroot backdoorin recent campaign infosec security",
+        "B-ORG B-PRO O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday microsoft internet explorer 9 ieframe cmarkup::remove pointer pos use-after-free ms1",
+        "O O B-ORG B-PRO I-PRO B-VER O O O O B-VUL O",
+        "1"
+    ],
+    [
+        "linux x64 add root user toor toor shellcode packetstorm",
+        "B-PRO B-VER B-VUL I-VUL I-VUL O O B-VUL O",
+        "1"
+    ],
+    [
+        "cve-2016-3044 the linux kernel component in ibm powerkvm 2.1 before 2.1.1.3-65.10 and 3.1 before 3.1.0.2 allows gu",
+        "B-ID O B-PRO I-PRO O O B-ORG O B-VER I-VER I-VER O B-VER I-VER I-VER O O",
+        "1"
+    ],
+    [
+        "cisco patches critical flaw in webex chrome plugin cybersecurity",
+        "B-ORG O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "linux kernel 4.4.0 ubuntu dccp double-free crash packetstorm",
+        "B-PRO I-PRO B-VER B-PRO O B-VUL O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3138-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "vigilnce microsoft windows journal buffer overflow via a jtp file",
+        "O B-ORG B-PRO O B-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "oracle linux 6 ding-libs sssd elsa-2018-1877 nessus",
+        "B-ORG B-PRO B-VER O O B-ID O",
+        "1"
+    ],
+    [
+        "mcafee virus scan for linux allows for remote code execution as",
+        "B-PRO I-PRO I-PRO O B-PRO O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "microsoft windows 10 1709 child process restriction mitigation bypass microsoft windows 10 version 1709 suffers",
+        "B-ORG B-PRO B-VER I-VER B-VUL I-VUL I-VUL I-VUL I-VUL B-ORG B-PRO B-VER O B-VER O",
+        "1"
+    ],
+    [
+        "cybersecurity cert tells microsoft to keep emet alive because it s better than win 10 s own security infosec",
+        "O O O B-ORG O O O O O O O O O B-PRO I-PRO O O O O",
+        "1"
+    ],
+    [
+        "automating cyber threat intelligence with skyatp part two with splunk",
+        "O O O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "centos 6 pcs cesa-2018:1927 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "vuln docker cve-2016-9962 local privilege escalation vulnerability bugtraq",
+        "O B-PRO B-ID B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "bugtraq cve-2017-0045 windows dvd maker xml external entity file disclosure credits john page aka hyp3rlinx",
+        "O B-ID B-PRO O O B-VUL I-VUL I-VUL I-VUL I-VUL O O O O O",
+        "1"
+    ],
+    [
+        "redhat network satellite cross site scripting vulnerability",
+        "B-ORG O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter opensuse security update libplist opensuse-2017-230",
+        "O B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "java python bugs allow attackers to circumvent firewalls the unpatched vulnerabilities can be exploited infosec",
+        "B-PRO O O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 7 kernel rhsa-2017:0086 nessus",
+        "B-PRO B-VER B-PRO B-ID O",
+        "1"
+    ],
+    [
+        "cybersecurity vuln debian tomcat package multiple local privilege escalation vulnerabilities infosec",
+        "O O B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter microsoft windows desktop bridge virtual registry incomplete fix the handling of the virtual registry",
+        "O B-ORG B-PRO O O O O B-VUL I-VUL O O O O O O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2439-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "microsoft windows 10 1607 gain privileges vulnerability",
+        "B-ORG B-PRO B-VER O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "suse sles11 security update bind suse-su-2017:0112-1",
+        "B-PRO I-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "redhat rhsa-2018-1927:01 moderate pcs security update infosec",
+        "B-ORG B-ID O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter microsoft windows enterprise mode site list v 1 2 xml external entity injection",
+        "O B-ORG B-PRO I-PRO O O O O O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter na cve-2016-10126 splunk web in splunk enterprise 5.0.x before",
+        "O O B-ID B-PRO B-VER O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "windows kernel object memory handling and initialization errors let local users obtain potentially sensitive",
+        "B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL O O O O O O",
+        "1"
+    ],
+    [
+        "linux kernel 4.5.7 denial of service vulnerability linux kernel 4.5.7 denial of service vulnerability29 nov.",
+        "B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL B-PRO I-PRO B-VER B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "debian dla-1442-1 mailman security update nessus plugin id 111314 with high severity synopsis the remote debian",
+        "B-PRO B-ID O O O O O O O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "vuln sap hana unspecified denial of service vulnerability hana unspecified denial of service vulnerability",
+        "O B-ORG B-PRO B-VUL I-VUL I-VUL I-VUL I-VUL B-PRO B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "multiple vulnerabilities in adobe flash player could allow for remote code execution apsb18-19 rss generated",
+        "B-VUL I-VUL O B-ORG B-PRO I-PRO O O O B-VUL I-VUL I-VUL B-ID O O",
+        "1"
+    ],
+    [
+        "papers buffer overflow for windows egghunter exploitdb",
+        "O B-VUL I-VUL O B-PRO O O",
+        "1"
+    ],
+    [
+        "windows 10 diagnostics hub standard collector service privilege escalation exploit",
+        "B-PRO B-VER O O O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "adobe patches critical flash player bug with active exploit threatpost",
+        "B-ORG O O B-PRO I-PRO O O O O O",
+        "1"
+    ],
+    [
+        "shellcode linux x86 egg-hunter shellcode 25 bytes exploitdb",
+        "B-VUL B-PRO B-VER B-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "threatmeter windows escalate uac protection bypass",
+        "O B-PRO B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft windows media center ehshell.exe xml external entity",
+        "B-ORG B-PRO O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "cve-2018-10901 a flaw was found in linux kernel s kvm virtualization subsystem the vmx code does not restore the g",
+        "B-ID O O O O O B-PRO I-PRO O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter a vulnerability in google chrome could allow for arbitrary code execution",
+        "O O O O B-ORG B-PRO O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3137-1 packetstorm",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday linux kernel 2.6.32-rc1 x86_64 register leak exploit dos exploits 0day exploit",
+        "O O B-PRO I-PRO B-VER I-VER O O O B-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "cve-2016-9083 drivers vfio pci vfio_pci.c in the linux kernel through 4.8.11 allows local users to bypass integer",
+        "B-ID O O O O O O B-PRO I-PRO B-VER I-VER B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts 17.10 18.04 lts thunderbird vulnerabilities usn-3714-1 nessus",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER O O B-ID O",
+        "1"
+    ],
+    [
+        "vuln php cve-2016-7414 heap buffer overflow vulnerability ubuntu linux 16.04 ltsubuntu ubun",
+        "O B-PRO B-ID B-VUL I-VUL I-VUL I-VUL B-PRO I-PRO B-VER B-PRO O",
+        "1"
+    ],
+    [
+        "na cve-2017-5017 interactions with the os in google chrome prior interactions with the os in google chrome",
+        "O B-ID O O O O O B-ORG B-PRO O O O O O O B-ORG B-PRO",
+        "1"
+    ],
+    [
+        "threatmeter vuln oracle bi publisher multiple security vulnerabilities",
+        "O O B-ORG O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday apache couchdb amp lt 2.1.0 remote code execution exploit webapps exploits 0day",
+        "O O B-PRO I-PRO I-PRO B-VER I-VER B-VUL I-VUL I-VUL I-VUL O O O",
+        "1"
+    ],
+    [
+        "new rakos botnet found to be targeting linux servers amp iot devices w brute force attacks:",
+        "O B-VUL I-VUL O O O O B-PRO I-PRO I-PRO O O O B-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2018-12532 jboss richfaces 4.5.3 through 4.5.17 allows unauthenticated remote attackers to inject an arbitrary",
+        "B-ID B-PRO O B-VER I-VER I-VER O O O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2018-15471 an issue was discovered in xenvif_set_hash_mapping in drivers net xen-netback hash.c in the linux ke",
+        "B-ID O O O O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "rhel 6 samba rhsa-2018:1860 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "linus torvalds explains how to pull without jerking his chain linux 4.11 rc 2 is out but not until infosec",
+        "O O O O O O O O O O B-PRO B-VER O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln mcafee agent cve-2017-3896 remote denial of service vulnerability bugtraq",
+        "O B-ORG O B-ID B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter vuln adobe flash player apsb18-25 multiple information disclosure vulnerabilities adobe flash player",
+        "O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL B-ORG B-PRO I-PRO",
+        "1"
+    ],
+    [
+        "local microsoft windows advanced local procedure call alpc local privilege escalation exploitdb",
+        "O B-ORG B-PRO O O O O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "microsoft windows desktop bridge virtual registry incomplete fix the handling of the virtual registry for desktop",
+        "B-ORG B-PRO O O O O B-VUL I-VUL O O O O O O O O",
+        "1"
+    ],
+    [
+        "rhel 6 glibc rhsa-2017:0680 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "rhel 6 mrg rhsa-2018:2165",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "how to brute force a mysql db",
+        "O O B-VUL I-VUL O B-PRO O",
+        "1"
+    ],
+    [
+        "cve-2017-16349 an exploitable xml external entity vulnerability exists in the reporting functionality of sap bpc a",
+        "B-ID O O B-VUL I-VUL I-VUL I-VUL O O O O O O B-ORG O O",
+        "1"
+    ],
+    [
+        "microsoft office cve-2017-0003 memory corruption vulnerability type vulnerability microsoft office is prone to a",
+        "B-ORG B-PRO B-ID B-VUL I-VUL I-VUL O O B-ORG B-PRO O O O O",
+        "1"
+    ],
+    [
+        "critical vulnerability patched in oracle database oracle informed customers late on friday that its infosec",
+        "O O O O B-ORG B-PRO B-ORG O O O O O O O O",
+        "1"
+    ],
+    [
+        "vuln microsoft internet explorer vbscript engine cve-2018-8174 arbitrary code execution vulnerability",
+        "O B-ORG B-PRO I-PRO O O B-ID B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vulnerability security microsoft internet explorer 9 mshtml cdispnode::insertsiblingnode use-after-free",
+        "O O B-ORG B-PRO I-PRO B-VER O O B-VUL",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel 2.6.32-642 3.16.0-4 inode integer overflow",
+        "O B-PRO I-PRO B-VER I-VER O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "centos 6 libvirt cesa-2018:1929 nessus plugin id 110651 with medium severity synopsis the remote centos host",
+        "B-PRO B-VER O B-ID O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "vuln oracle mysql cve-2016-3492 remote security vulnerability oracle mysql cve-2016-3492 remote infosec",
+        "O B-ORG B-PRO B-ID B-VUL I-VUL I-VUL B-ORG B-PRO B-ID O O",
+        "1"
+    ],
+    [
+        "threatmeter debian dla-1439-1 resiprocate security update nessus plugin id 111311 with medium severity synopsis",
+        "O B-PRO B-ID O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "hidden bee miner hackers are employing a drive-by download attack to exploit a vulnerability in flash infosec",
+        "O O O O O O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter ubuntu 14.04 lts 16.04 lts 18.04 lts clamav regression usn-3722-3",
+        "O B-PRO B-VER I-VER I-VER I-VER I-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter rhel 7 kernel-alt rhsa-2018:1967 spectre",
+        "O B-PRO B-VER O B-ID B-VUL",
+        "1"
+    ],
+    [
+        "opensuse security update zsh opensuse-2018-699",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "vulnerability security vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerab",
+        "O O O B-PRO I-PRO O O O B-ID B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "centos 6 zsh cesa-2018:1932 nessus plugin id 110652 with high severity synopsis the remote centos host is",
+        "B-PRO B-VER O B-ID O O O O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "microsoft windows uniscribe buffer overflow cve-2017-0087",
+        "B-ORG B-PRO B-VUL I-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "ibm tivoli storage flashcopy manager for sql server 3.1.1.7 obtain information vulnerability",
+        "B-ORG B-PRO I-PRO O B-PRO O B-PRO I-PRO B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter rhsa-2016:2923-1 moderate openstack-cinder and openstack-glance security update",
+        "O B-ID O O O O O O",
+        "1"
+    ],
+    [
+        "re oss-security docker 1.12.6 security advisory fulldisclosure",
+        "O O B-PRO B-VER B-ID I-ID O",
+        "1"
+    ],
+    [
+        "rt fuzzysec fuzzysec pskernelpwn gt windows kernel exploitation pool overflow",
+        "O O O O O B-PRO I-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3736-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "cve-2018-6672 information disclosure vulnerability in mcafee epolicy orchestrator epo 5.3.0 through 5.3.3 and 5.9",
+        "B-ID B-VUL I-VUL I-VUL O B-ORG B-PRO I-PRO O B-VER I-VER I-VER O B-VER",
+        "1"
+    ],
+    [
+        "cve-2018-8249 a remote code execution vulnerability exists when internet explorer improperly accesses objects in me",
+        "B-ID O B-VUL I-VUL I-VUL I-VUL O O O O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts tomcat7 tomcat8 vulnerabilities usn-3723-1 nessus",
+        "B-PRO B-VER I-VER I-VER I-VER B-PRO I-PRO O B-ID O",
+        "1"
+    ],
+    [
+        "0xdude hacker held open mongodb databases for mongodb hacking cybercrime",
+        "O O O O B-PRO I-PRO O B-PRO O O",
+        "1"
+    ],
+    [
+        "linux kernel vulnerability",
+        "B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "debian dla-1442-1 mailman security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "microsoft windows uniscribe usp10 ttogettabledata heap buffer overflow packetstorm",
+        "B-ORG B-PRO O O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vuln citrix provisioning services remote code execution and information disclosure vulnerabilities",
+        "O B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "microsoft windows jscript regexp.lastindex use-after-free exploit",
+        "B-ORG B-PRO O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter windows uniscribe object memory handling error lets remote users execute arbitrary code",
+        "O B-PRO O O O O O O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-1933-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "opensuse security update python-django opensuse-2018-914 nessus",
+        "B-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "adobe acrobat reader up to 11.0.18 15.006.30244 15.020.20042 tiff image heap-based buffer overflow",
+        "B-ORG B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "na usn-3149-2 linux kernel trusty hwe vulnerability a security issue affects these releases of ubuntu and it",
+        "O B-ID B-PRO I-PRO O B-VUL I-VUL O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "rhel 5 6 7 thunderbird rhsa-2016 2825",
+        "B-PRO B-VER I-VER I-VER O B-ID I-ID",
+        "1"
+    ],
+    [
+        "cybersecurity locky variant osiris distributed via excel documents infosec",
+        "O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "redhat network satellite cross site scripting vulnerability cross-site scripting xss vulnerability in spacewalk",
+        "B-ORG O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "cve-2014-9841 imagemagick leap opensuse suse_linux_enterprise_desktop suse_linux_enterprise_server suse_linu",
+        "B-ID O O B-PRO I-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "vulnerability security vuln sap netweaver information disclosure vulnerability",
+        "O O O B-ORG B-PRO B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter symsa1419-sa156 apache tomcat vulnerabilities apr-oct 2017",
+        "O B-ID B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "0daytoday windows x64 bind shell tcp shellcode 508 bytes shellcode 0day exploit",
+        "O B-PRO B-VER B-VUL I-VUL I-VUL I-VUL O O B-VUL O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln retired adobe flash player 10.0.45.2 and air 1.5.3.9130 multiple remote vulnerabilities",
+        "O O O B-ORG B-PRO I-PRO B-VER O B-PRO B-VER B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel vfio driver cve-2016-9084 integer overflow vulnerability",
+        "O O B-PRO I-PRO O O B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "remote apache struts 2.3 lt 2.3.34 2.5 lt 2.5.16 remote code execution 2",
+        "O B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER I-VER B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "oracle releases security alert",
+        "B-ORG O O O",
+        "1"
+    ],
+    [
+        "dos microsoft internet explorer 9 mshtml cdisp node insert sibling node use-after-free ms13 exploitdb",
+        "O B-ORG B-PRO I-PRO B-VER O O O O O O B-VUL O O",
+        "1"
+    ],
+    [
+        "mysql 5.6.x lt 5.6.41 multiple vulnerabilities july 2018 cpu nessus",
+        "B-PRO B-VER I-VER I-VER B-VUL I-VUL O O O O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday sap netweaver as java p4 mspruntimeinterface information disclosure vulnerability 0day",
+        "O O B-ORG B-PRO O B-PRO O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2018-3108 vulnerability in the oracle fusion middleware component of oracle fusion middleware subcomponent",
+        "B-ID O O O B-ORG B-PRO I-PRO O O B-ORG B-PRO I-PRO O",
+        "1"
+    ],
+    [
+        "linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af_packet race condition privilege escalation cxsecurity",
+        "B-PRO I-PRO B-VER B-PRO B-VER I-VER I-VER O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vulnerability security vuln linux kernel usbhid hiddev.c local heap buffer overflow vulnerability",
+        "O O O B-PRO I-PRO O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "patch critical new vulnerability on microsoft windows operating systems found by secunia",
+        "O O O O O B-ORG B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "nginx debian-based gentoo distros root privilege escalation cve-2016-1247 update fulldisclosure",
+        "B-PRO I-PRO I-PRO O B-VUL I-VUL I-VUL B-ID O O",
+        "1"
+    ],
+    [
+        "google releases security updates for chrome",
+        "B-ORG O O O O B-PRO",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3672-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday linux x86 bind shell shellcode 51 bytes shellcode 0day exploit",
+        "O O B-PRO B-VER O O B-VUL O O B-VUL O O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-12828 adobe flash player 30.0.0.134 and earlier have a use of a component with a known vulne",
+        "O B-ID B-ORG B-PRO I-PRO B-VER O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln sap basis report for terminology export os command injection vulnerability sap basis report for",
+        "O O B-ORG O O O O O O O B-VUL I-VUL B-ORG O O O",
+        "1"
+    ],
+    [
+        "threatmeter mariadb 10.2.x lt 10.2.3 multiple dos",
+        "O B-ORG B-VER O B-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "apache http server up to 2.4.24 response handler split privilege escalation",
+        "B-PRO I-PRO I-PRO B-VER I-VER I-VER O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts 16.04 lts 17.10 18.04 lts libpng libpng1.6 vulnerabilities usn-3712-1",
+        "B-PRO B-VER I-VER I-VER I-VER I-VER I-VER I-VER O O O B-ID",
+        "1"
+    ],
+    [
+        "centos 7 qemu-kvm cesa-2017:0083",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "centos 6 7 expat cesa-2016:2824",
+        "B-PRO B-VER I-VER O B-ID",
+        "1"
+    ],
+    [
+        "vuln linux kernel cve-2016-4578 multiple local information disclosure vulnerabilities linux kernel cve infosec",
+        "O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "vulnerability security vuln adobe flash player and air cve-2010-2214 unspecified memory corruption vulnerab",
+        "O O O B-ORG B-PRO I-PRO O B-PRO B-ID B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "security updates for microsoft .net framework july 2018 nessus",
+        "O O O B-ORG B-PRO I-PRO O O O",
+        "1"
+    ],
+    [
+        "suse sles12 security update kernel suse-su-2018:1538-1",
+        "B-PRO I-PRO O O B-PRO B-ID",
+        "1"
+    ],
+    [
+        "centos 6 7 mutt cesa-2018:2526 nessus",
+        "B-PRO B-VER I-VER O B-ID O",
+        "1"
+    ],
+    [
+        "kb4338824 windows 8.1 and windows server 2012 r2 july 2018 security update nessus plugin id 110981 with high",
+        "B-ID B-PRO B-VER O B-PRO I-PRO B-VER I-VER O O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "debian security advisory 4257-1 packetstorm",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter ars technica risk assessment muni system hacker hit others by scanning for year-old java vulnerabi",
+        "O O O O O O O O O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af packet race condition privilege escalation",
+        "O B-PRO I-PRO B-VER B-PRO B-VER I-VER I-VER O O B-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-13390 unauthenticated access to cloudtoken daemon on linux via network from version 0.1.1 bef",
+        "O B-ID B-VUL I-VUL O O O O B-PRO O O O O B-VER O",
+        "1"
+    ],
+    [
+        "threatmeter nvidia windows gpu display driver 34x.x lt 342.00 367.x lt 369.73 367.x lt 369.71 grid 375.x lt 3",
+        "O B-ORG B-PRO O O O B-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER I-VER O B-VER I-VER O",
+        "1"
+    ],
+    [
+        "high usn-3225-1 libarchive vulnerabilities a security issue affects these releases of ubuntu and its derivativ",
+        "O B-ID O O O O O O O O O B-PRO O O O",
+        "1"
+    ],
+    [
+        "ms17-021 important security update for windows directshow 4010318 version 1.0 severity rating infosec",
+        "B-ID O O O O B-PRO O B-ID O B-VER O O O",
+        "1"
+    ],
+    [
+        "attackers have now started holding unsecured mongodb instances ransom by mbromileydfir",
+        "O O O O O O B-PRO O O O O",
+        "1"
+    ],
+    [
+        "microsoft windows media center ehshell.exe xml external entity cxsecurity",
+        "B-ORG B-PRO O O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "vulnerability security vuln linux kernel net sctp socket.c local denial of service vulnerability",
+        "O O O B-PRO I-PRO O O O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "vulnerability security linux kernel 2.6.32-rc1 x86_64 register leak",
+        "O O B-PRO I-PRO B-VER I-VER O O",
+        "1"
+    ],
+    [
+        "microsoft windows jscript regexp.lastindex use-after-free",
+        "B-ORG B-PRO O O B-VUL",
+        "1"
+    ],
+    [
+        "rt ronnytnl e_kaspersky security teams able to access the telemetry via subscription billing",
+        "O O O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "debian dsa-4232-1 xen security update nessus plugin id 110624 with high severity synopsis the remote debian",
+        "B-PRO B-ID O O O O O O O O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "vulnerability security vuln adobe flash player cve-2017-2997 buffer overflow vulnerability",
+        "O O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "icymi here is a free app to limit windows 10 collecting your telemetry and send it to microsoft amp 3rd parties:",
+        "O O O O O O O O B-PRO B-VER O O O O O O O B-ORG B-PRO O O",
+        "1"
+    ],
+    [
+        "vuln debian tomcat package multiple local privilege escalation vulnerabilities",
+        "O B-PRO I-PRO O B-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "redhat network satellite cross site scripting vulnerability cross-site scripting xss vulnerability in spacewalk-",
+        "B-ORG O O B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "rhel 6 thunderbird rhsa-2018:2251 nessus",
+        "B-PRO B-VER O B-ID O",
+        "1"
+    ],
+    [
+        "threatmeter adobe flash player flaws remain the most used by exploit kits",
+        "O B-ORG B-PRO I-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "new office 365 phishing attack uses malicious links in sharepoint documents",
+        "O B-PRO B-VER B-VUL I-VUL O O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter how to remove the cryptoshield ransomware from your computer windows 7 windows 8 windows 10",
+        "O O O O O O O O O O B-PRO B-VER B-PRO B-VER B-PRO B-VER",
+        "1"
+    ],
+    [
+        "oracle java se 7u121 8u112 libraries unknown vulnerability cve-2016-5549",
+        "B-ORG B-PRO I-PRO B-VER I-VER O B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "shellcode linux arm execve bin sh bin sh null shellcode 32 bytes",
+        "B-VUL B-PRO O O O O O O O B-VUL O O",
+        "1"
+    ],
+    [
+        "threatmeter oracle linux 6 kernel elsa-2017-0036",
+        "O B-ORG B-PRO B-VER B-PRO B-ID",
+        "1"
+    ],
+    [
+        "oracle patches 270 vulnerabilities in year s first critical patch update oracle patched 270 infosec",
+        "B-ORG O O O O O O O O O O B-ORG O O O",
+        "1"
+    ],
+    [
+        "cortana software could help anyone unlock your windows10 computer",
+        "B-PRO I-PRO O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "threatmeter google chrome swiftshader texture allocation integer overflow",
+        "O B-ORG B-PRO O O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2387-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "cve-2018-6683 exploiting incorrectly configured access control security levels vulnerability in mcafee data loss",
+        "B-ID O O O O O O O O O B-ORG O O",
+        "1"
+    ],
+    [
+        "ubuntu 18.04 lts linux-azure vulnerabilities usn-3678-3",
+        "B-PRO B-VER I-VER B-PRO O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter opensuse security update icoutils opensuse-2017-104",
+        "O B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "cybersecurity vuln microsoft windows cve-2017-0038 incomplete fix information disclosure vulnerability infosec",
+        "O O B-ORG B-PRO B-ID O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter remote microsoft internet explorer jscript9 java script stack walker memory corruption ms15-05",
+        "O O B-ORG B-PRO I-PRO O B-PRO O O O B-VUL I-VUL B-ID",
+        "1"
+    ],
+    [
+        "opensuse security update phpmyadmin opensuse-2017-198",
+        "B-PRO O O O B-ID",
+        "1"
+    ],
+    [
+        "ubuntu 18.04 lts haproxy vulnerability usn-3663-1",
+        "B-PRO B-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "threatmeter dos microsoft internet explorer 9 cdoc::execute script uri use-after-free ms13-009",
+        "O O B-ORG B-PRO I-PRO B-VER O O O B-VUL B-ID",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2093-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "debian dla-738-1 spip security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "vuln linux kernel multiple denial of service vulnerabilities bugtraq",
+        "O B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "google publishes second unpatched windows 10 flaw in a month",
+        "B-ORG O O O B-PRO B-VER O O O O",
+        "1"
+    ],
+    [
+        "ubuntu 14.04 lts apport vulnerability usn-3664-2",
+        "B-PRO B-VER I-VER O O B-ID",
+        "1"
+    ],
+    [
+        "f5 networks big-ip linux kernel vulnerability k17309",
+        "O O O B-PRO I-PRO O O",
+        "1"
+    ],
+    [
+        "adobe flash player multiple flaws let remote users obtain potentially sensitive information bypass security",
+        "B-ORG B-PRO I-PRO O O O O O B-VUL I-VUL I-VUL I-VUL O O",
+        "1"
+    ],
+    [
+        "adobe acrobat reader up to 11.0.18 15.006.30244 15.020.20042 tiff image buffer overflow",
+        "B-ORG B-PRO I-PRO B-VER I-VER I-VER I-VER I-VER O O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "mongodb hackers now sacking elasticsearch",
+        "B-PRO O O O B-PRO",
+        "1"
+    ],
+    [
+        "vulnerability security vuln oracle e-business suite cve-2017-3326 remote security vulnerability",
+        "O O O B-ORG B-PRO I-PRO B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday linux pam 0.6.9 authentication replay vulnerability remote exploits vulnerability",
+        "O O B-PRO O B-VER B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "threatmeter linux kernel dirty cow ptrace_pokedata privilege escalation",
+        "O B-PRO I-PRO B-VUL I-VUL O B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "shellcode windows x64 10 wow64 egghunter shellcode 50 bytes",
+        "B-VUL B-PRO B-VER I-VER O O B-VUL O O",
+        "1"
+    ],
+    [
+        "cve-2017-7543 a race-condition flaw was discovered in openstack-neutron before 7.2.0-12.1 8.x before 8.3.0-11.1 9",
+        "B-ID O B-VUL I-VUL O O O B-PRO B-VER I-VER I-VER I-VER I-VER O",
+        "1"
+    ],
+    [
+        "mysql 5.7.x lt 5.7.23 multiple vulnerabilities rpm check july 2018 cpu nessus",
+        "B-PRO B-VER I-VER I-VER B-VUL I-VUL O O O O O O",
+        "1"
+    ],
+    [
+        "cve-2018-3101 webcenter_portal vulnerability in the oracle webcenter portal component of oracle fusion",
+        "B-ID O O O O B-ORG O O O O B-ORG O",
+        "1"
+    ],
+    [
+        "cybersecurity ubuntu app crash reporter bug allows remote code execution infosec",
+        "O B-PRO O O O O O B-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "threatmeter apsb17-04 adobe flash player use after free remote code execution iii",
+        "O B-ID B-ORG B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "cve-2018-14678 an issue was discovered in the linux kernel through 4.17.11 as used in xen through 4.11.x the",
+        "B-ID O O O O O O B-PRO I-PRO B-VER I-VER O O O O B-VER I-VER O",
+        "1"
+    ],
+    [
+        "threatmeter 0daytoday microsoft internet explorer 8 mshtml amp 039 ptls5::ls find span visual boundar 0day e",
+        "O O B-ORG B-PRO I-PRO B-VER O B-PRO O O O O O O O O",
+        "1"
+    ],
+    [
+        "debian dla-1446-1 intel-microcode security update spectre",
+        "B-PRO B-ID O O O B-VUL",
+        "1"
+    ],
+    [
+        "security hacking google discloses unpatched windows gdi vulnerability",
+        "O O B-ORG O O B-PRO O O",
+        "1"
+    ],
+    [
+        "cve-2016-8027 sql injection vulnerability in core services in intel security mcafee epolicy orchestrator epo 5.3",
+        "B-ID B-VUL I-VUL I-VUL O O O O B-ORG O B-ORG B-PRO I-PRO O B-VER",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3158-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "vuln php ext standard var_unserializer.c memory corruption vulnerability ubuntu linux 16.0",
+        "O B-PRO O O O B-VUL I-VUL I-VUL B-PRO I-PRO B-VER",
+        "1"
+    ],
+    [
+        "vulnerability security vuln linux kernel cve-2016-9120 local use after free memory corruption vulnerability",
+        "O O O B-PRO I-PRO B-ID B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "debian dla-1436-1 gosa security update nessus",
+        "B-PRO B-ID O O O O",
+        "1"
+    ],
+    [
+        "oracle linux 6 7 unbreakable enterprise kernel elsa-2018-4126 spectre nessus",
+        "B-ORG B-PRO B-VER I-VER O B-PRO I-PRO B-ID B-VUL O",
+        "1"
+    ],
+    [
+        "suse sled12 sles12 security update shadow suse-su-2018:1997-1 nessus",
+        "B-PRO I-PRO I-PRO O O O B-ID O",
+        "1"
+    ],
+    [
+        "opensuse 2018:1806-1 important phpmyadmin infosec",
+        "B-PRO B-ID O O O",
+        "1"
+    ],
+    [
+        "threatmeter na cve-2016-7278 microsoft internet explorer 9 through 11 allows",
+        "O O B-ID B-ORG B-PRO I-PRO B-VER I-VER I-VER O",
+        "1"
+    ],
+    [
+        "fldbg a pykd script to debug flashplayer",
+        "O O O O O O B-PRO",
+        "1"
+    ],
+    [
+        "red hat security advisory 2018-2261-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "windows 10 creators update will let users pause windows updates",
+        "B-PRO B-VER O O O O O O B-PRO O",
+        "1"
+    ],
+    [
+        "webapps sap netweaver as java bc-bmt-bpm-dsk xml external entity injection exploitdb",
+        "O B-ORG B-PRO O B-PRO O B-VUL I-VUL I-VUL I-VUL O",
+        "1"
+    ],
+    [
+        "centos 7 ipsilon cesa-2016:2809",
+        "B-PRO B-VER O B-ID",
+        "1"
+    ],
+    [
+        "vuln linux kernel local use after free multiple denial of service vulnerabilities",
+        "O B-PRO I-PRO B-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "sap cyber threat intelligence report august 2018",
+        "B-ORG O O O O O O",
+        "1"
+    ],
+    [
+        "debian security advisory 3786-1 advisory",
+        "B-PRO B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "threatmeter cve-2018-8251 windows_10 windows_7 windows_8.1 windows_rt_8.1 windows_server_2008 windows_server",
+        "O B-ID B-PRO I-PRO I-PRO I-PRO I-PRO I-PRO",
+        "1"
+    ],
+    [
+        "google chrome up to 56 buffer overflow",
+        "B-ORG B-PRO B-VER I-VER I-VER B-VUL I-VUL",
+        "1"
+    ],
+    [
+        "local microsoft windows kernel win32k.sys ntsetwindowlongptr privilege escalation ms16-135 exploitdb",
+        "O B-ORG B-PRO I-PRO O O B-VUL I-VUL B-ID O",
+        "1"
+    ],
+    [
+        "red hat security advisory 2016-2872-01 advisory",
+        "B-ORG I-ORG B-ID I-ID I-ID O",
+        "1"
+    ],
+    [
+        "vuln openstack oslo.middleware cve-2017-2592 information disclosure vulnerability",
+        "O B-PRO O B-ID B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3154-1 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "debian dla-1391-1 tiff security update",
+        "B-PRO B-ID O O O",
+        "1"
+    ],
+    [
+        "oracle patches new spectre meltdown vulnerabilities oracle announced on friday that it has started infosec",
+        "B-ORG O O B-VUL I-VUL I-VUL B-ORG O O O O O O O O",
+        "1"
+    ],
+    [
+        "ubuntu security notice usn-3676-2 advisory",
+        "B-PRO O O B-ID O",
+        "1"
+    ],
+    [
+        "cve-2018-8404 an elevation of privilege vulnerability exists in windows when the win32k component fails to properly",
+        "B-ID O B-VUL I-VUL I-VUL I-VUL O O B-PRO O O O O O O O",
+        "1"
+    ],
+    [
+        "exploring risks of it network breaches to industrial control systems ics scada ics ot",
+        "O O O O O O O O O O O B-PRO O O",
+        "1"
+    ],
+    [
+        "kb4338823 windows 7 and windows server 2008 r2 july 2018 security update nessus plugin id 110982 with high",
+        "B-ID B-PRO B-VER O B-PRO I-PRO B-VER I-VER O O O O B-PRO O O O O O",
+        "1"
+    ],
+    [
+        "threatmeter vuln linux kernel x86 mm gup.c local security bypass vulnerability",
+        "O O B-PRO I-PRO B-VER O O O B-VUL I-VUL I-VUL",
+        "1"
+    ],
+    [
+        "rt mikko we ve patched a serious vulnerability in our windows endpoint protection products it sucks to have vulns but we r",
+        "O O O O O O O O O O B-PRO O O O O O O O O O O O",
+        "1"
+    ],
+    [
+        "rt janeparrish in securityweek indegycom ceo barakperelman explains role of assetmanagement in ics scada networks",
+        "O O O O O O O O O O O O O B-PRO O",
+        "1"
+    ]
+]
